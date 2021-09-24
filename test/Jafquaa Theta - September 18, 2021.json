@@ -1,0 +1,3795 @@
+{
+  "asteroidBase": {
+    "b7bc94f95f5a2823687e": {
+      "name": "Dison 3",
+      "parent": "afb1882100136ef31f41",
+      "parentEntity": "asteroidBelt",
+      "attributes": {
+        "occupation": "Failed rebels from another world",
+        "situation": "Fighting another asteroid"
+      },
+      "isHidden": false
+    }
+  },
+  "asteroidBelt": {
+    "afb1882100136ef31f41": {
+      "name": "(6236)  Ore",
+      "parent": "713a2bde724fc1891400",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Survivors of destroyed asteroid base",
+        "situation": "Ancient ruins dot the rocks"
+      },
+      "isHidden": false
+    }
+  },
+  "blackHole": {
+    "d9c2c6efb5cd2d8afe4f": {
+      "x": 1,
+      "y": 6,
+      "name": "FWU607-0",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "6cae6d1c3a56e652eec6": {
+      "x": 4,
+      "y": 5,
+      "name": "Mpi9515",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "c3e263f98e4c50bdb747": {
+      "x": 2,
+      "y": 7,
+      "name": "NJXO 0-80",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    }
+  },
+  "deepSpaceStation": {
+    "fa1f3ca52ed4e9b7cf40": {
+      "name": "Crater 7",
+      "parent": "c3e263f98e4c50bdb747",
+      "parentEntity": "blackHole",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "28ca7fe95ea1a61fdf1d": {
+      "name": "Gamboa 4",
+      "parent": "add69d57f80a6a0bc9e2",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Vault for dangerous pretech"
+      },
+      "isHidden": false
+    },
+    "0cb5ef43bae72b7fae2a": {
+      "name": "Avarua 7",
+      "parent": "a5f56ad26b32ce5acaf6",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Dangerously odd humans",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "fe5386e84c6494a33347": {
+      "name": "Bazas",
+      "parent": "38dba15a07116a586039",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "4b2e63704441b445c017": {
+      "name": "Manzi 2",
+      "parent": "713a2bde724fc1891400",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Secretive military observers",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    }
+  },
+  "gasGiantMine": {
+    "c0e56cbea774d080e0b7": {
+      "name": "Chimbote",
+      "parent": "b77afe1b85fd8363d94b",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists studying the alien life",
+        "situation": "Alien remnants were found"
+      },
+      "isHidden": false
+    },
+    "5fb359f382bb4e85904e": {
+      "name": "Edam",
+      "parent": "b77afe1b85fd8363d94b",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scrappers in the ruined old mine",
+        "situation": "The workers are in revolt"
+      },
+      "isHidden": false
+    },
+    "bd76cf4f29b8404536c1": {
+      "name": "Salaga Mine Project",
+      "parent": "d723e8802f5afb7960bb",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists studying the alien life",
+        "situation": "They need vital supplies"
+      },
+      "isHidden": false
+    },
+    "05d14a6ec3b8d4a48c61": {
+      "name": "Canaveral",
+      "parent": "d3b6a41dec8c356f2c86",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Strange robots and their overseers",
+        "situation": "Things are emerging below"
+      },
+      "isHidden": false
+    },
+    "d9f22cd121d1412af350": {
+      "name": "Tugaske Mine Project",
+      "parent": "c84ada3561cea52392d6",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Impoverished separatists group",
+        "situation": "They need vital supplies"
+      },
+      "isHidden": false
+    },
+    "9b2bd6c8ce0d96ea6561": {
+      "name": "Olenek",
+      "parent": "6519e967b5d77dccbf05",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Miserable gas-miner slaves or serfs",
+        "situation": "Things are emerging below"
+      },
+      "isHidden": false
+    },
+    "6a8c8888e0b4a357b5d6": {
+      "name": "Quick",
+      "parent": "d378fac0c84b75cf9c5b",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Miserable gas-miner slaves or serfs",
+        "situation": "The workers are in revolt"
+      },
+      "isHidden": false
+    },
+    "5caafaa8e8855a088488": {
+      "name": "Molesworth Mine",
+      "parent": "c1068c9d83a275709fe1",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scrappers in the ruined old mine",
+        "situation": "The workers are in revolt"
+      },
+      "isHidden": false
+    },
+    "c0caea2a76454dbd8b88": {
+      "name": "Williams Project",
+      "parent": "d5c95dabce23bc3d7ba4",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Impoverished separatists group",
+        "situation": "They need vital supplies"
+      },
+      "isHidden": false
+    },
+    "d0ab40ffa076dca86df4": {
+      "name": "Vaduz Project",
+      "parent": "b9556915977933cc623e",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scrappers in the ruined old mine",
+        "situation": "Things are emerging below"
+      },
+      "isHidden": false
+    },
+    "9d53f59942df9edee3e0": {
+      "name": "Camargo Mine Project",
+      "parent": "6145413c361aba3e8c28",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Strange robots and their overseers",
+        "situation": "The workers are in revolt"
+      },
+      "isHidden": false
+    },
+    "2f9ded9db2df50a1280b": {
+      "name": "Mojave Mine",
+      "parent": "6145413c361aba3e8c28",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scrappers in the ruined old mine",
+        "situation": "Alien remnants were found"
+      },
+      "isHidden": false
+    },
+    "ccb22b9f7b6de6dd0679": {
+      "name": "Chinju Mine Project",
+      "parent": "e79b9d7af2859e513ebc",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Impoverished separatists group",
+        "situation": "Alien remnants were found"
+      },
+      "isHidden": false
+    }
+  },
+  "moon": {
+    "f767f65f9809c9054136": {
+      "name": "Saga Jullati",
+      "parent": "c84ada3561cea52392d6",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "a843be336b76ed44a66c": {
+      "name": "Orga",
+      "parent": "c84ada3561cea52392d6",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "97724fd9870544aa6736": {
+      "name": "Tectes",
+      "parent": "c84ada3561cea52392d6",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "684bd3f14bb9744181a1": {
+      "name": "Gudrid",
+      "parent": "62fc72c75cc1c49a282e",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "3cb63c38204885d2a239": {
+      "name": "Gorathe",
+      "parent": "62fc72c75cc1c49a282e",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "837ac75467c7d1a68121": {
+      "name": "Vionte",
+      "parent": "38b2a533856f477f3ce7",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "e6d70a900acb931feb8a": {
+      "name": "Kakakis",
+      "parent": "6519e967b5d77dccbf05",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "ac85b56ea4c55427bc08": {
+      "name": "Meda",
+      "parent": "54052f9e6729a8a41af9",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    },
+    "6b1d30bbd90d6a0c2509": {
+      "name": "Thos",
+      "parent": "57fb35f19171f2b22ba6",
+      "parentEntity": "planet",
+      "attributes": {},
+      "isHidden": false
+    }
+  },
+  "moonBase": {
+    "a8dc3c09113f19a50b1d": {
+      "name": "Kumak",
+      "parent": "97724fd9870544aa6736",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Military listening post",
+        "situation": "Something dark has awoken"
+      },
+      "isHidden": false
+    },
+    "cbf593b81fa569cca759": {
+      "name": "Downe Mine",
+      "parent": "3cb63c38204885d2a239",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Unlucky corporate researchers",
+        "situation": "Criminals trying to take over"
+      },
+      "isHidden": false
+    }
+  },
+  "note": {},
+  "orbitalRuin": {
+    "7b4c63a449d8d0e41d8a": {
+      "name": "Tuapi 6",
+      "parent": "6cae6d1c3a56e652eec6",
+      "parentEntity": "blackHole",
+      "attributes": {
+        "occupation": "Military quarantine enforcers",
+        "situation": "Impending tech calamity"
+      },
+      "isHidden": false
+    },
+    "211758d7e0bec47b673e": {
+      "name": "Beagle 2",
+      "parent": "b77afe1b85fd8363d94b",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Trigger-happy scavengers",
+        "situation": "Fighting outside interlopers"
+      },
+      "isHidden": false
+    },
+    "032fbd0a8c53d099d30c": {
+      "name": "Lomonosov 2",
+      "parent": "f767f65f9809c9054136",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Military quarantine enforcers",
+        "situation": "Trying to stop it awakening"
+      },
+      "isHidden": false
+    },
+    "90f9cdef6b923337056f": {
+      "name": "Mellish 6",
+      "parent": "684bd3f14bb9744181a1",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Military quarantine enforcers",
+        "situation": "Impending tech calamity"
+      },
+      "isHidden": false
+    },
+    "7695417a3fbd6d31375d": {
+      "name": "Bradbury 4",
+      "parent": "3cb63c38204885d2a239",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Government researchers",
+        "situation": "Impending tech calamity"
+      },
+      "isHidden": false
+    },
+    "a106b73c3ca93d298200": {
+      "name": "Oudemans 2",
+      "parent": "d5c95dabce23bc3d7ba4",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Government researchers",
+        "situation": "Fighting outside interlopers"
+      },
+      "isHidden": false
+    },
+    "5260df1bc07f65cd946d": {
+      "name": "Newcomb 4",
+      "parent": "58f0e7a9687cf640377c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Trigger-happy scavengers",
+        "situation": "A terrible secret is unearthed"
+      },
+      "isHidden": false
+    },
+    "b709e468cc631979603c": {
+      "name": "Ubud 8",
+      "parent": "c7771c0847344c1189a8",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Robots of dubious sentience",
+        "situation": "A terrible secret is unearthed"
+      },
+      "isHidden": false
+    },
+    "eb5f06bda9be0b809bd5": {
+      "name": "Eil",
+      "parent": "ac85b56ea4c55427bc08",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Military quarantine enforcers",
+        "situation": "Meddling with strange tech"
+      },
+      "isHidden": false
+    }
+  },
+  "planet": {
+    "b77afe1b85fd8363d94b": {
+      "name": "Moniazis",
+      "parent": "4df918566140e27e62a5",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL5",
+        "atmosphere": "Airless or thin atmosphere",
+        "temperature": "Temperate",
+        "biosphere": "No native biosphere",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Beastmasters",
+            "description": "The natives have extremely close bonds with the local fauna, possibly having special means of communication and control through tech or gengineering. Local animal life plays a major role in their society, industry, or warfare, and new kinds of beasts may be bred to suit their purposes.",
+            "enemies": [
+              "Half-feral warlord of a beast swarm",
+              "Coldly inhuman scientist",
+              "Altered beast with human intellect and furious malice"
+            ],
+            "friends": [
+              "Native bonded with an adorable animal",
+              "Herder of very useful beasts",
+              "Animal-revering mystic"
+            ],
+            "complications": [
+              "The \"animals\" are very heavily gengineered humans",
+              "The animals actually run the society",
+              "The animals have the same rights as humans"
+            ],
+            "things": [
+              "Tech used to alter animal life",
+              "A plague vial that could wipe out the animals",
+              "A pretech device that can perform a wonder if operated by a beast"
+            ],
+            "places": [
+              "Park designed as a comfortable home for beasts",
+              "Public plaza designed to acommodate animal companions",
+              "Factory full of animal workers"
+            ]
+          },
+          {
+            "name": "Psionics Academy",
+            "description": "This world is one of the few that have managed to redevelop the basics of psychic training. Without this education, a potential psychic is doomed to either madness or death unless they refrain from using their abilities. Psionic academies are rare enough that offworlders are often sent there to study by wealthy patrons. The secrets of psychic mentorship, the protocols and techniques that allow a psychic to successfully train another, are carefully guarded at these academies. Most are closely affiliated with the planetary government.",
+            "enemies": [
+              "Corrupt psychic instructor",
+              "Renegade student",
+              "Mad psychic researcher",
+              "Resentful townie"
+            ],
+            "friends": [
+              "Offworld researcher",
+              "Aspiring student",
+              "Wealthy tourist"
+            ],
+            "complications": [
+              "The academy curriculum kills a significant percentage of students",
+              "The faculty use students as research subjects",
+              "The students are indoctrinated as sleeper agents",
+              "The local natives hate the academy",
+              "The academy is part of a religion"
+            ],
+            "things": [
+              "Secretly developed psitech",
+              "A runaway psychic mentor",
+              "Psychic research prize"
+            ],
+            "places": [
+              "Training grounds",
+              "Experimental laboratory",
+              "School library",
+              "Campus hangout"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "d723e8802f5afb7960bb": {
+      "name": "Chia",
+      "parent": "a8d163c31d01fd628a8c",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Cold",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Seismic Instability",
+            "description": "The local land masses are remarkably unstable, and regular earthquakes rack the surface. Local construction is either advanced enough to sway and move with the vibrations or primitive enough that it is easily rebuilt. Severe volcanic activity may be part of the instability.",
+            "enemies": [
+              "Earthquake cultist",
+              "Hermit seismologist",
+              "Burrowing native life form",
+              "Earthquake-inducing saboteur"
+            ],
+            "friends": [
+              "Experimental construction firm owner",
+              "Adventurous volcanologist",
+              "Geothermal prospector"
+            ],
+            "complications": [
+              "The earthquakes are caused by malfunctioning pretech terraformers",
+              "They're caused by alien technology",
+              "They're restrained by alien technology that is being plundered by offworlders",
+              "The earthquakes are used to generate enormous amounts of energy"
+            ],
+            "things": [
+              "Earthquake generator",
+              "Earthquake suppressor",
+              "Mineral formed at the core of the world",
+              "Earthquake-proof building schematics"
+            ],
+            "places": [
+              "Volcanic caldera",
+              "Village during an earthquake",
+              "Mud slide",
+              "Earthquake opening superheated steam fissures"
+            ]
+          },
+          {
+            "name": "Xenophiles",
+            "description": "The natives of this world are fast friends with a particular alien race. The aliens may have saved the planet at some point in the past, or awed the locals with superior tech or impressive cultural qualities. The aliens might even be the ruling class on the planet.",
+            "enemies": [
+              "Offworld xenophobe",
+              "Suspicious alien leader",
+              "Xenocultural imperialist"
+            ],
+            "friends": [
+              "Benevolent alien",
+              "Native malcontent",
+              "Gone-native offworlder"
+            ],
+            "complications": [
+              "The enthusiasm is due to alien psionics or tech",
+              "The enthusiasm is based on a lie, the aliens strongly dislike their “groupies”",
+              "The aliens feel obliged to rule humanity for its own good",
+              "Humans badly misunderstand the aliens"
+            ],
+            "things": [
+              "Hybrid alien-human tech",
+              "Exotic alien crafts",
+              "Sophisticated xenolinguistic and xenocultural research data"
+            ],
+            "places": [
+              "Alien district",
+              "Alien-influenced human home",
+              "Cultural festival celebrating alien artist"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "79e686e8f73531ceec68": {
+      "name": "Orbiis",
+      "parent": "a89cc8f00c338405ad07",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Frozen",
+        "biosphere": "Human-miscible",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Rising Hegemon",
+            "description": "This world is not yet a dominant power in the sector, but it's well on its way there. Whether through newly-blossoming economic, military, or cultural power, they're extending their influence over their neighbors and forging new arrangements between their government and the rulers of nearby worlds.",
+            "enemies": [
+              "Jingoistic supremacist",
+              "Official bent on glorious success",
+              "Foreign agent saboteur"
+            ],
+            "friends": [
+              "Friendly emissary to the benighted",
+              "Hardscrabble local turned great success",
+              "Foreign visitor seeking contacts or knowledge"
+            ],
+            "complications": [
+              "They're only strong because their neighbors have been weakened",
+              "Their success is based on a fluke resource or pretech find",
+              "They bitterly resent their neighbors as former oppressors"
+            ],
+            "things": [
+              "Tribute shipment",
+              "Factory or barracks emblematic of their power source",
+              "Tech or data that will deal a blow to their rise"
+            ],
+            "places": [
+              "Rustic town being hurled into prosperity",
+              "Government building being expanded",
+              "Starport struggling under the flow of new ships"
+            ]
+          },
+          {
+            "name": "Dying Race",
+            "description": "The inhabitants of this world are dying out, and they know it. Through environmental toxins, hostile bio-weapons, or sheer societal despair, the culture cannot replenish its numbers. Members seek meaning in their own strange goals or peculiar faiths, though a few might struggle to find some way to reverse their slow yet inevitable doom.",
+            "enemies": [
+              "Hostile outsider who wants the locals dead",
+              "Offwolder seeking to take advantage of their weakened state",
+              "Invaders eager to push the locals out of their former lands"
+            ],
+            "friends": [
+              "One of the few youth amonth the population",
+              "Determined and hopeful reformer",
+              "Researcher seeking a new method of reproduction"
+            ],
+            "complications": [
+              "The dying culture's values were monstrous",
+              "The race's death is somehow necessary to prevent some grand catastrophe",
+              "The race is somehow convinced they deserve this fate"
+            ],
+            "things": [
+              "Extremely valuable reproductive tech",
+              "Treasured artifacts of the former age",
+              "Bioweapon used on the race"
+            ],
+            "places": [
+              "City streets devoid of pedestrians",
+              "Mighty edifice now crumbling with disrepair",
+              "Small dwelling full of people in a town now otherwise empty"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "6c2a1967abd8cc0ff7ce": {
+      "name": "Aud",
+      "parent": "a89cc8f00c338405ad07",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Mercenaries",
+            "description": "The world is either famous for its mercenary bands or it is plagued by countless groups of condottieri in service to whatever magnate can afford to pay or bribe them adequately.",
+            "enemies": [
+              "Amoral mercenary leader",
+              "Rich offworlder trying to buy rule of the world",
+              "Mercenary press gang chief forcing locals into service"
+            ],
+            "friends": [
+              "Young and idealistic mercenary chief",
+              "Harried leader of enfeebled national army",
+              "Offworlder trying to hire help for a noble cause"
+            ],
+            "complications": [
+              "The mercenaries are all that stand between the locals and a hungry imperial power",
+              "The mercenaries are remnants of a former official army",
+              "The mercenaries hardly ever actually fight as compared to taking bribes to walk away"
+            ],
+            "things": [
+              "Lost mercenary payroll shipment",
+              "Forbidden military tech",
+              "Proof of a band's impending treachery against their employers"
+            ],
+            "places": [
+              "Shabby camp of undisciplined mercs",
+              "Burnt-out village occupied by mercenaries",
+              "Luxurious and exceedingly well-defended merc leader villa"
+            ]
+          },
+          {
+            "name": "Pretech Cultists",
+            "description": "The capacities of human science before the Silence vastly outmatch the technology available since the Scream. The jump gates alone were capable of crossing hundreds of light years in a moment, and they were just one example of the results won by blending psychic artifice with pretech science. Some worlds outright worship the artifacts of their ancestors, seeing in them the work of more enlightened and perfect humanity. These cultists may or may not understand the operation or replication of these devices, but they seek and guard them jealously.",
+            "enemies": [
+              "Cult leader",
+              "Artifact supplier",
+              "Pretech smuggler"
+            ],
+            "friends": [
+              "Offworld scientist",
+              "Robbed collector",
+              "Cult heretic"
+            ],
+            "complications": [
+              "The cultists can actually replicate certain forms of pretech",
+              "The cultists abhor use of the devices as \"presumption on the holy\"",
+              "The cultists mistake the party's belongings for pretech"
+            ],
+            "things": [
+              "Pretech artifacts both functional and broken",
+              "Religious-jargon laced pretech replication techniques",
+              "Waylaid payment for pretech artifacts"
+            ],
+            "places": [
+              "Shrine to nonfunctional pretech",
+              "Smuggler's den",
+              "Public procession showing a prized artifact"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "d3b6a41dec8c356f2c86": {
+      "name": "Polytie",
+      "parent": "1fc43501c10d2744da90",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Thick atmosphere, breathable with a pressure mask",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Urbanized Surface",
+            "description": "The world's land area is covered with buildings that extend downward for multiple levels. Such worlds either have a population in the trillions, extremely little land area, or are largely-abandoned due to some past catastrophe. Agriculture and resource extraction are part of the urban complex, and there may be an advanced maintenance system that may not be entirely under the control of present natives.",
+            "enemies": [
+              "Maintenance AI that hates outsiders",
+              "Tyrant of a habitation block",
+              "Deep-dwelling prophet who considers \"the sky\" a blasphemy to be quelled"
+            ],
+            "friends": [
+              "Local yearning for wild spaces",
+              "Grubby urchin of the underlevels",
+              "Harried engineer trying to maintain ancient works",
+              "Grizzled hab cop"
+            ],
+            "complications": [
+              "The urban blocks are needed to survive the environment",
+              "The blocks were part of an ancient device of world-spanning size",
+              "The blocks require constant maintenance to avoid dangerous types of decay"
+            ],
+            "things": [
+              "Massively efficient power source",
+              "Map of the secret ways of a zone",
+              "Passkey into restricted hab block areas"
+            ],
+            "places": [
+              "Giant hab block now devoid of inhabitants",
+              "Chemical-reeking underway",
+              "Seawater mine full of salt and massive flowing channels"
+            ]
+          },
+          {
+            "name": "Hivemind",
+            "description": "Natives of this world exist in a kind of mental gestalt, sharing thoughts and partaking of a single identity. Powerful pretech, exotic psionics, alien influence, or some other cause has left the world sharing one identity. Individual members may have greater or lesser degrees of effective coordination with the whole.",
+            "enemies": [
+              "A hivemind that wants to assimilate outsiders",
+              "A hivemind that has no respect for unjoined life",
+              "A hivemind that fears and hates unjoined life"
+            ],
+            "friends": [
+              "A scholar studying the hivemind",
+              "A person severed from the gestalt",
+              "A relative of someone who has been assimilated"
+            ],
+            "complications": [
+              "The hivemind only functions on this world",
+              "The hivemind has strict range limits",
+              "The hivemind has different personality factions",
+              "The hivemind only happens at particular times",
+              "The world is made of semi-sentient drones and a single AI"
+            ],
+            "things": [
+              "Vital tech for maintaining the mind",
+              "Precious treasure held by now-assimilated outsider",
+              "Tech that \"blinds\" the hivemind ot the tech's users"
+            ],
+            "places": [
+              "Barely tolerable living cells for individuals",
+              "Workside where individuals casually die in their labors",
+              "Community with absolutely no social or group-gathering facilities"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "c84ada3561cea52392d6": {
+      "name": "Chanela",
+      "parent": "c05adf8f4734011543c2",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Thick atmosphere, breathable with a pressure mask",
+        "temperature": "Burning",
+        "biosphere": "Immiscible",
+        "population": "Alien civilization",
+        "tags": [
+          {
+            "name": "Urbanized Surface",
+            "description": "The world's land area is covered with buildings that extend downward for multiple levels. Such worlds either have a population in the trillions, extremely little land area, or are largely-abandoned due to some past catastrophe. Agriculture and resource extraction are part of the urban complex, and there may be an advanced maintenance system that may not be entirely under the control of present natives.",
+            "enemies": [
+              "Maintenance AI that hates outsiders",
+              "Tyrant of a habitation block",
+              "Deep-dwelling prophet who considers \"the sky\" a blasphemy to be quelled"
+            ],
+            "friends": [
+              "Local yearning for wild spaces",
+              "Grubby urchin of the underlevels",
+              "Harried engineer trying to maintain ancient works",
+              "Grizzled hab cop"
+            ],
+            "complications": [
+              "The urban blocks are needed to survive the environment",
+              "The blocks were part of an ancient device of world-spanning size",
+              "The blocks require constant maintenance to avoid dangerous types of decay"
+            ],
+            "things": [
+              "Massively efficient power source",
+              "Map of the secret ways of a zone",
+              "Passkey into restricted hab block areas"
+            ],
+            "places": [
+              "Giant hab block now devoid of inhabitants",
+              "Chemical-reeking underway",
+              "Seawater mine full of salt and massive flowing channels"
+            ]
+          },
+          {
+            "name": "Post-Scarcity",
+            "description": "The locals have maintained sufficient Mandate-era tech to be effectively post-scarcity in their economic structure. Everyone has all the necessities and most of the desires they can imagine. Conflict now exists over the apportionment of services and terrestrial space, since anything else can be had in abundance. Military goods and items of mass destruction may still be restricted, and there is probably some reason that the locals do not export their vast wealth.",
+            "enemies": [
+              "Frenzied ideologue fighting over an idea",
+              "Paranoid local fearing offworlder influence",
+              "Grim reformer seeking the destruction of the \"enfeebling\" productive tech"
+            ],
+            "friends": [
+              "Offworlder seeking something available only here",
+              "Local struggling to maintain the production tech",
+              "Native missionary seeking to bring abundance to other worlds"
+            ],
+            "complications": [
+              "The tech causes serious side-effects on those who take advantage of it",
+              "The tech is breaking down",
+              "The population is growing too large",
+              "The tech produces only certain things in abundance"
+            ],
+            "things": [
+              "A cornucopia device",
+              "A rare commodity that cannot be duplicated",
+              "Contract for services"
+            ],
+            "places": [
+              "Tiny but richly-appointed private quarters",
+              "Market for services",
+              "Hushed non-duped art salon"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "62fc72c75cc1c49a282e": {
+      "name": "Berd",
+      "parent": "c05adf8f4734011543c2",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Microbial life",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Nomads",
+            "description": "Most of the natives of this world are nomadic, usually following a traditional cycle of movement through the lands they possess. Promises of rich plunder or local environmental perils can force these groups to strike out against neighbors. Other groups are forced to move constantly due to unpredictable dangers that crop up on the planet.",
+            "enemies": [
+              "Desperate tribal leader who needs what the PCs have",
+              "Ruthless raider chieftain",
+              "Leader seeking to weld the nomads into an army"
+            ],
+            "friends": [
+              "Free-spirited young nomad",
+              "Dreamer imagining a stable life",
+              "Offwolder enamoured of the life"
+            ],
+            "complications": [
+              "An irresistibly lethal swarm of native life forces locals to move regularly",
+              "Ancient defense systems destroy too-long-stationary communities",
+              "Local chemical patches require careful balancing of exposure times to avoid side effects"
+            ],
+            "things": [
+              "Cache of rare and precious resource",
+              "Plunder seized by a tribal raid",
+              "Tech that makes a place safe for long-term inhabitation"
+            ],
+            "places": [
+              "Temporary nomad camp",
+              "Oasis or resource reserve",
+              "Trackless waste that kills the unprepared"
+            ]
+          },
+          {
+            "name": "Tyranny",
+            "description": "The local government is brutal and indifferent to the will of the people. Laws may or may not exist, but the only one that matters is the whim of the rulers on any given day. Their minions swagger through the streets while the common folk live in terror of their appetites. The only people who stay wealthy are friends and servants of the ruling class.",
+            "enemies": [
+              "Debauched autocrat",
+              "Sneering bully-boy",
+              "Soulless government official",
+              "Occupying army officer"
+            ],
+            "friends": [
+              "Conspiring rebel",
+              "Oppressed merchant",
+              "Desperate peasant",
+              "Inspiring religious leader"
+            ],
+            "complications": [
+              "The tyrant rules with vastly superior technology",
+              "The tyrant is a figurehead for a cabal of powerful men and women",
+              "The people are resigned to their suffering"
+            ],
+            "things": [
+              "Plundered wealth",
+              "Beautiful toys of the elite",
+              "Regalia of rulership"
+            ],
+            "places": [
+              "Impoverished village",
+              "Protest rally massacre",
+              "Decadent palace",
+              "Religious hospital for the indigent"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "38b2a533856f477f3ce7": {
+      "name": "Valld",
+      "parent": "c05adf8f4734011543c2",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4+",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Xenophiles",
+            "description": "The natives of this world are fast friends with a particular alien race. The aliens may have saved the planet at some point in the past, or awed the locals with superior tech or impressive cultural qualities. The aliens might even be the ruling class on the planet.",
+            "enemies": [
+              "Offworld xenophobe",
+              "Suspicious alien leader",
+              "Xenocultural imperialist"
+            ],
+            "friends": [
+              "Benevolent alien",
+              "Native malcontent",
+              "Gone-native offworlder"
+            ],
+            "complications": [
+              "The enthusiasm is due to alien psionics or tech",
+              "The enthusiasm is based on a lie, the aliens strongly dislike their “groupies”",
+              "The aliens feel obliged to rule humanity for its own good",
+              "Humans badly misunderstand the aliens"
+            ],
+            "things": [
+              "Hybrid alien-human tech",
+              "Exotic alien crafts",
+              "Sophisticated xenolinguistic and xenocultural research data"
+            ],
+            "places": [
+              "Alien district",
+              "Alien-influenced human home",
+              "Cultural festival celebrating alien artist"
+            ]
+          },
+          {
+            "name": "Pilgrimage Site",
+            "description": "The world is noted for an important spiritual or historical location, and might be the sector headquarters for a widespread religion or political movement. The site attracts wealthy pilgrims from throughout nearby space, and those with the money necessary to manage interstellar travel can be quite generous to the site and its keepers. The locals tend to be fiercely protective of the place and its reputation, and some places may forbid the entrance of those not suitably pious or devout.",
+            "enemies": [
+              "Saboteur devoted to a rival belief",
+              "Bitter reformer who resents the current leadership",
+              "Swindler conning the pilgrims"
+            ],
+            "friends": [
+              "Protector of the holy site",
+              "Naive offworlder pilgrim",
+              "Outsider wanting to learn the sanctum's inner secrets"
+            ],
+            "complications": [
+              "The site is actually a fake",
+              "The site is run by corrupt and venal keepers",
+              "A natural disaster threatens the site"
+            ],
+            "things": [
+              "Ancient relic guarded at the site",
+              "Proof of the site's inauthenticity",
+              "Precious offerings from a pilgrim"
+            ],
+            "places": [
+              "Incense-scented sanctum",
+              "Teeming crowd of pilgrims",
+              "Imposing holy structure"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "124fefaa8385c11c9939": {
+      "name": "Polytio",
+      "parent": "add69d57f80a6a0bc9e2",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Warm",
+        "biosphere": "No native biosphere",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Holy War",
+            "description": "A savage holy war is raging on this world, either between factions of locals or as a united effort against the pagans of some neighboring world. This war might involve a conventional religion, or it might be the result of a branding campaign, political ideology, artistic movement, or any other cause that people use as a substitute for traditional religion.",
+            "enemies": [
+              "Blood-mad pontiff",
+              "Coldly cynical secular leader",
+              "Totalitarian political demagogue"
+            ],
+            "friends": [
+              "Desperate peacemaker",
+              "Hard-pressed refugee of the fighting",
+              "Peaceful religious leader who lost the internal debate"
+            ],
+            "complications": [
+              "The targets of the war really are doing something diabolically horrible",
+              "The holy war is just a mask for a very traditional casus belli",
+              "The leaders don't want the war won but only prolonged",
+              "Both this world and the target of the war are religious-obsessed"
+            ],
+            "things": [
+              "Sacred relic of the faith",
+              "A captured blasphemer under a death sentence",
+              "Plunder seized in battle"
+            ],
+            "places": [
+              "Massive holy structure",
+              "Razed community of infidels",
+              "Vast shrine to the martyrs dead in war"
+            ]
+          },
+          {
+            "name": "Cybercommunists",
+            "description": "On this world communism actually works, thanks to pretech computing devices and greater or lesser amounts of psychic precognition. Central planning nodes direct all production and employment on the world. Citizens in good standing have access to ample amounts of material goods for all needs and many wants. Instead of strife over wealth, conflicts erupt over political controls, cultural precepts, or control over the planning nodes. Many cybercommunist worlds show a considerable bias toward the private interests of those who run the planning nodes.",
+            "enemies": [
+              "Embittered rebel against perceived unfairness",
+              "Offworlder saboteur",
+              "Aspiring stalin-figure"
+            ],
+            "friends": [
+              "Idealistic planning node tech",
+              "Cynical anti-corruption cop",
+              "Precognitive economist"
+            ],
+            "complications": [
+              "The pretech planning computers are breaking down",
+              "The planning only works because the locals have been mentally or physically altered",
+              "The planning computers can't handle the increasing population within the system"
+            ],
+            "things": [
+              "Planning node computer",
+              "Wildly destabilizing commodity that can't be factored into plans",
+              "A tremendous store of valuables made by accident"
+            ],
+            "places": [
+              "Humming factory",
+              "Apartment block of perfectly equal flats",
+              "Mass demonstration of unity"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "a93dce5c82ff04ee6756": {
+      "name": "Maitutx Ene",
+      "parent": "add69d57f80a6a0bc9e2",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Frozen",
+        "biosphere": "No native biosphere",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Psionics Worship",
+            "description": "These natives view psionic powers as a visible gift of god or sign of superiority. If the world has a functional psychic training academy, psychics occupy almost all major positions of power and are considered the natural and proper rulers of the world. If the world lacks training facilities, it is likely a hodgepodge of demented cults, with each one dedicated to a marginally-coherent feral prophet and their psychopathic ravings.",
+            "enemies": [
+              "Psychic inquisitor",
+              "Haughty mind-noble",
+              "Psychic slaver",
+              "Feral prophet"
+            ],
+            "friends": [
+              "Offworlder psychic researcher",
+              "Native rebel",
+              "Offworld employer seeking psychics"
+            ],
+            "complications": [
+              "The psychic training is imperfect and the psychics all show significant mental illness",
+              "The psychics have developed a unique discipline",
+              "The will of a psychic is law",
+              "Psychics in the party are forcibly kidnapped for \"enlightening\""
+            ],
+            "things": [
+              "Ancient psitech",
+              "Valuable psychic research records",
+              "Permission for psychic training"
+            ],
+            "places": [
+              "Psitech-imbued council chamber",
+              "Temple to the mind",
+              "Sanitarium-prison for feral psychics"
+            ]
+          },
+          {
+            "name": "Badlands World",
+            "description": "Whatever the original climate and atmosphere type, something horrible happened to this world. Biological, chemical, or nanotechnical weaponry has reduced it to a wretched hellscape. Some local life might still be able to survive on its blasted surface, usually at some dire cost in health or humanity.",
+            "enemies": [
+              "Mutated badlands fauna",
+              "Desperate local",
+              "Badlands raider chief"
+            ],
+            "friends": [
+              "Native desparately wishing to escape the world",
+              "Scientist researching ecological repair methods",
+              "Ruin scavenger"
+            ],
+            "complications": [
+              "Radioactivity",
+              "Bioweapon traces",
+              "Broken terrain",
+              "Sudden local plague"
+            ],
+            "things": [
+              "Maltech research core",
+              "Functional pretech weaponry",
+              "An uncontaminated well"
+            ],
+            "places": [
+              "Untouched oasis",
+              "Ruined city",
+              "Salt flat"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "96093b0011aa7df897de": {
+      "name": "Andylis",
+      "parent": "12a8b0590d646a202e64",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL0",
+        "atmosphere": "Thick atmosphere, breathable with a pressure mask",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Mercenaries",
+            "description": "The world is either famous for its mercenary bands or it is plagued by countless groups of condottieri in service to whatever magnate can afford to pay or bribe them adequately.",
+            "enemies": [
+              "Amoral mercenary leader",
+              "Rich offworlder trying to buy rule of the world",
+              "Mercenary press gang chief forcing locals into service"
+            ],
+            "friends": [
+              "Young and idealistic mercenary chief",
+              "Harried leader of enfeebled national army",
+              "Offworlder trying to hire help for a noble cause"
+            ],
+            "complications": [
+              "The mercenaries are all that stand between the locals and a hungry imperial power",
+              "The mercenaries are remnants of a former official army",
+              "The mercenaries hardly ever actually fight as compared to taking bribes to walk away"
+            ],
+            "things": [
+              "Lost mercenary payroll shipment",
+              "Forbidden military tech",
+              "Proof of a band's impending treachery against their employers"
+            ],
+            "places": [
+              "Shabby camp of undisciplined mercs",
+              "Burnt-out village occupied by mercenaries",
+              "Luxurious and exceedingly well-defended merc leader villa"
+            ]
+          },
+          {
+            "name": "Local Tech",
+            "description": "The locals can create a particular example of extremely high tech, possibly even something that exceeds pretech standards. They may use unique local resources to do so, or have stumbled on a narrow scientific breakthrough, or still have a functional experimental manufactory.",
+            "enemies": [
+              "Keeper of the tech",
+              "Offworld industrialist",
+              "Automated defenses that suddenly come alive",
+              "Native alien mentors"
+            ],
+            "friends": [
+              "Curious offworld scientist",
+              "Eager tech buyer",
+              "Native in need of technical help"
+            ],
+            "complications": [
+              "The tech is unreliable",
+              "The tech only works on this world",
+              "The tech has poorly-understood side effects",
+              "The tech is alien in nature"
+            ],
+            "things": [
+              "The tech itself",
+              "An unclaimed payment for a large shipment",
+              "The secret blueprints for its construction",
+              "An ancient alien R&D database"
+            ],
+            "places": [
+              "Alien factory",
+              "Lethal R&D center",
+              "Tech brokerage vault"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "6519e967b5d77dccbf05": {
+      "name": "Dimos",
+      "parent": "12a8b0590d646a202e64",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Robots",
+            "description": "The world has a great many robots on it. Most bots are going to be non-sentient expert systems, though an AI with enough computing resources can control many bots at once, and some worlds may have developed VIs to a degree that individual bots can seem (or be) sentient. Some worlds might even be ruled by metal overlords, ones which do not need to be sentient so long as they have overwhelming force.",
+            "enemies": [
+              "Hostile robot master",
+              "Robot greedy to seize offworld tech",
+              "Robot fallen in love with the pc's ship",
+              "Oligarch whose factories build robots"
+            ],
+            "friends": [
+              "Data-seeking robot",
+              "Plucky young robot tech",
+              "Local being pushed out of a job by robots"
+            ],
+            "complications": [
+              "The robots are only partially controlled",
+              "The robots are salvaged and originally meant for a much darker use",
+              "The robots require a rare material that the locals fight over",
+              "The robots require the planet's specific infrastructure so cannot be exported"
+            ],
+            "things": [
+              "Prototype robot",
+              "Secret robot override codes",
+              "Vast cache of robot-made goods",
+              "Robot-destroying pretech weapon"
+            ],
+            "places": [
+              "Humming robotic factory",
+              "Stark robotic \"barracks\"",
+              "House crowded with robot servants and only one human owner"
+            ]
+          },
+          {
+            "name": "Cyclical Doom",
+            "description": "The world regularly suffers some apocalyptic catastrophe that wipes out organized civilization on it. The local culture is aware of this cycle and has traditions to ensure a fragment of civilization survives into the next era, but these traditions don't always work properly, and sometimes dangerous fragments of the past emerge.",
+            "enemies": [
+              "Offwolder seeking to trigger the apocalypse early for profit",
+              "Local recklessly taking advantage of preparation stores",
+              "Demagogue claiming the cycle is merely a myth of the authorities"
+            ],
+            "friends": [
+              "Harried official working to prepare",
+              "Offworlder studying the cycles",
+              "Local threatened by perils of the cycle's initial stages"
+            ],
+            "complications": [
+              "The cycles really are a myth of the authorities",
+              "The cycles are controlled by alien constructs",
+              "An outside power is interfering with preparation"
+            ],
+            "things": [
+              "A lost cache of ancien treasures",
+              "Tech or archives that will pinpoint the cycle's timing",
+              "Keycodes to bypass an ancient vault's security"
+            ],
+            "places": [
+              "Lethally-defended vault of forgotten secrets",
+              "Starport crowded with panicked refugees",
+              "Town existing in the shadow of some monstrous monument to a former upheaval"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "d378fac0c84b75cf9c5b": {
+      "name": "Valfdis",
+      "parent": "cdacc6fd6365e221b77a",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL0",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Major Spaceyard",
+            "description": "Most worlds of tech level 4 or greater have the necessary tech and orbital facilities to build spike drives and starships. This world is blessed with a major spaceyard facility, either inherited from before the Silence or painstakingly constructed in more recent decades. It can build even capital-class hulls, and do so more quickly and cheaply than its neighbors.",
+            "enemies": [
+              "Enemy saboteur",
+              "Industrial spy",
+              "Scheming construction tycoon",
+              "Aspiring ship hijacker"
+            ],
+            "friends": [
+              "Captain stuck in drydock",
+              "Maintenance chief",
+              "Mad innovator"
+            ],
+            "complications": [
+              "The spaceyard is an alien relic",
+              "The spaceyard is burning out from overuse",
+              "The spaceyard is alive",
+              "The spaceyard relies on maltech to function"
+            ],
+            "things": [
+              "Intellectual property-locked pretech blueprints",
+              "Override keys for activating old pretech facilities",
+              "A purchased but unclaimed spaceship"
+            ],
+            "places": [
+              "Hidden shipyard bay",
+              "Surface of a partially-complete ship",
+              "Ship scrap graveyard"
+            ]
+          },
+          {
+            "name": "Taboo Treasure",
+            "description": "The natives here produce something that is both fabulously valuable and strictly forbidden elsewhere in the sector. It may be a lethally addictive drug, forbidden gengineering tech, vat-grown \"perfect slaves\", or a useful substance that can only be made through excruciating human suffering. This treasure is freely traded on the world, but bringing it elsewhere is usually an invitation to a long prison stay or worse.",
+            "enemies": [
+              "Maker of a vile commodity",
+              "Smuggler for a powerful offworlder",
+              "Depraved offworlder here for \"fun\"",
+              "Local warlord who controls the treasure"
+            ],
+            "friends": [
+              "Reformer seeking to end its use",
+              "Innovator trying to repurpose the treasure in innocent ways",
+              "Wretched addict unwillingly prey to the treasure"
+            ],
+            "complications": [
+              "The treasure is extremely hard to smuggle",
+              "Its use visibly marks a user",
+              "The natives consider it for their personal use only"
+            ],
+            "things": [
+              "Load of the forbidden good",
+              "Smuggling tech that could hide the good perfectly",
+              "Blackmail data on offworld buyers of the good"
+            ],
+            "places": [
+              "Den where the good is used",
+              "Market selling the good to locals and a few outsiders",
+              "Factory or processing area where the good is created"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "71c0dc2e1aee7195f434": {
+      "name": "Uja Samaya",
+      "parent": "b583b2e9f7c6a9c2d95c",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "Human-miscible",
+        "population": "Alien civilization",
+        "tags": [
+          {
+            "name": "Beastmasters",
+            "description": "The natives have extremely close bonds with the local fauna, possibly having special means of communication and control through tech or gengineering. Local animal life plays a major role in their society, industry, or warfare, and new kinds of beasts may be bred to suit their purposes.",
+            "enemies": [
+              "Half-feral warlord of a beast swarm",
+              "Coldly inhuman scientist",
+              "Altered beast with human intellect and furious malice"
+            ],
+            "friends": [
+              "Native bonded with an adorable animal",
+              "Herder of very useful beasts",
+              "Animal-revering mystic"
+            ],
+            "complications": [
+              "The \"animals\" are very heavily gengineered humans",
+              "The animals actually run the society",
+              "The animals have the same rights as humans"
+            ],
+            "things": [
+              "Tech used to alter animal life",
+              "A plague vial that could wipe out the animals",
+              "A pretech device that can perform a wonder if operated by a beast"
+            ],
+            "places": [
+              "Park designed as a comfortable home for beasts",
+              "Public plaza designed to acommodate animal companions",
+              "Factory full of animal workers"
+            ]
+          },
+          {
+            "name": "Seagoing Cities",
+            "description": "Either the world is entirely water or else the land is simply too dangerous for most humans. Human settlement on this world consists of a number of floating cities that follow the currents and the fish. These city-ships might have been purpose-built for their task, or they could be jury-rigged conglomerations of ships and structures thrown together when the need for seagoing life become apparent to the locals.",
+            "enemies": [
+              "Pirate city lord",
+              "Mer-human raider chieftain",
+              "Hostile landsman noble",
+              "Enemy city saboteur"
+            ],
+            "friends": [
+              "City navigator",
+              "Scout captain",
+              "Curious mer-human",
+              "Hard-pressed ship-city engineer"
+            ],
+            "complications": [
+              "The seas are not water",
+              "The fish schools have vanished and the city faces starvation",
+              "Terrible storms drive the city into the glacial regions",
+              "Suicide ships ram the city's hull"
+            ],
+            "things": [
+              "Giant pearls with mysterious chemical properties",
+              "Buried treasure",
+              "Vital repair materials"
+            ],
+            "places": [
+              "Bridge of the city",
+              "Storm-tossed sea",
+              "A bridge fashioned of many small boat"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "c1068c9d83a275709fe1": {
+      "name": "Aerte",
+      "parent": "b583b2e9f7c6a9c2d95c",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Heavy Mining",
+            "description": "This world has large stocks of valuable minerals, usually necessary for local industry, life support, or refinement into loads small enough to export offworld. Major mining efforts are necessary to extract the minerals, and many natives work in the industry.",
+            "enemies": [
+              "Mine boss",
+              "Tunnel saboteur",
+              "Subterranean predators"
+            ],
+            "friends": [
+              "Hermit prospector",
+              "Offworld investigator",
+              "Miner's union representative"
+            ],
+            "complications": [
+              "The refinery equipment breaks down",
+              "Tunnel collapse",
+              "Silicate life forms growing in the miner's lungs"
+            ],
+            "things": [
+              "The mother lode",
+              "Smuggled case of refined mineral",
+              "Silicate faked crystalline mineral samples"
+            ],
+            "places": [
+              "Vertical mine face",
+              "Tailing piles",
+              "Roaring smelting complex"
+            ]
+          },
+          {
+            "name": "Sealed Menace",
+            "description": "Something on this planet has the potential to create enormous havoc for the inhabitants if it is not kept safely contained by its keepers. Whether a massive seismic fault line suppressed by pretech terraforming technology, a disease that has to be quarantined within hours of discovery, or an ancient alien relic that requires regular upkeep in order to prevent planetary catastrophe, the menace is a constant shadow on the fearful populace",
+            "enemies": [
+              "Hostile outsider bent on freeing the menace",
+              "Misguided fool who thinks he can use it",
+              "Reckless researcher who thinks he can fix it"
+            ],
+            "friends": [
+              "Keeper of the menace",
+              "Student of its nature",
+              "Victim of the menace"
+            ],
+            "complications": [
+              "The menace would bring great wealth along with destruction",
+              "The menace is intelligent",
+              "The natives don't all believe in the menace"
+            ],
+            "things": [
+              "A key to unlock the menace",
+              "A precious byproduct of the menace",
+              "The secret of the menace's true nature"
+            ],
+            "places": [
+              "Guarded fortress containing the menace",
+              "Monitoring station",
+              "Scene of a prior outbreak of the menace"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "1662489938444d3fd04c": {
+      "name": "Juranur",
+      "parent": "a5f56ad26b32ce5acaf6",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Airless or thin atmosphere",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "Microbial life",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Bubble Cities",
+            "description": "Whether due to a lack of atmosphere or an uninhabitable climate, the world's cities exist within domes or pressurized buildings. In such sealed environments, techniques of surveillance and control can grow baroque and extreme.",
+            "enemies": [
+              "Native dreading outsider contamination",
+              "Saboteur from another bubble city",
+              "Local official hostile to outsider ignorance of laws"
+            ],
+            "friends": [
+              "Local rebel against the city officials",
+              "Maintenance chief in need of help",
+              "Surveyor seeking new building site"
+            ],
+            "complications": [
+              "Bubble rupture",
+              "Failing atmosphere reprocessor",
+              "Native revolt against officials",
+              "All-seeing surveillance cameras"
+            ],
+            "things": [
+              "Pretech habitat technology",
+              "Valuable industrial products",
+              "Master key codes to a city's security system"
+            ],
+            "places": [
+              "City power core",
+              "Surface of the bubble",
+              "Hydroponics complex",
+              "Warren-like hab block"
+            ]
+          },
+          {
+            "name": "Dying Race",
+            "description": "The inhabitants of this world are dying out, and they know it. Through environmental toxins, hostile bio-weapons, or sheer societal despair, the culture cannot replenish its numbers. Members seek meaning in their own strange goals or peculiar faiths, though a few might struggle to find some way to reverse their slow yet inevitable doom.",
+            "enemies": [
+              "Hostile outsider who wants the locals dead",
+              "Offwolder seeking to take advantage of their weakened state",
+              "Invaders eager to push the locals out of their former lands"
+            ],
+            "friends": [
+              "One of the few youth amonth the population",
+              "Determined and hopeful reformer",
+              "Researcher seeking a new method of reproduction"
+            ],
+            "complications": [
+              "The dying culture's values were monstrous",
+              "The race's death is somehow necessary to prevent some grand catastrophe",
+              "The race is somehow convinced they deserve this fate"
+            ],
+            "things": [
+              "Extremely valuable reproductive tech",
+              "Treasured artifacts of the former age",
+              "Bioweapon used on the race"
+            ],
+            "places": [
+              "City streets devoid of pedestrians",
+              "Mighty edifice now crumbling with disrepair",
+              "Small dwelling full of people in a town now otherwise empty"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "e4182be023845fbb040c": {
+      "name": "Cos",
+      "parent": "87d18686d289e602a2a3",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL5",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Frozen",
+        "biosphere": "Human-miscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Seismic Instability",
+            "description": "The local land masses are remarkably unstable, and regular earthquakes rack the surface. Local construction is either advanced enough to sway and move with the vibrations or primitive enough that it is easily rebuilt. Severe volcanic activity may be part of the instability.",
+            "enemies": [
+              "Earthquake cultist",
+              "Hermit seismologist",
+              "Burrowing native life form",
+              "Earthquake-inducing saboteur"
+            ],
+            "friends": [
+              "Experimental construction firm owner",
+              "Adventurous volcanologist",
+              "Geothermal prospector"
+            ],
+            "complications": [
+              "The earthquakes are caused by malfunctioning pretech terraformers",
+              "They're caused by alien technology",
+              "They're restrained by alien technology that is being plundered by offworlders",
+              "The earthquakes are used to generate enormous amounts of energy"
+            ],
+            "things": [
+              "Earthquake generator",
+              "Earthquake suppressor",
+              "Mineral formed at the core of the world",
+              "Earthquake-proof building schematics"
+            ],
+            "places": [
+              "Volcanic caldera",
+              "Village during an earthquake",
+              "Mud slide",
+              "Earthquake opening superheated steam fissures"
+            ]
+          },
+          {
+            "name": "Local Tech",
+            "description": "The locals can create a particular example of extremely high tech, possibly even something that exceeds pretech standards. They may use unique local resources to do so, or have stumbled on a narrow scientific breakthrough, or still have a functional experimental manufactory.",
+            "enemies": [
+              "Keeper of the tech",
+              "Offworld industrialist",
+              "Automated defenses that suddenly come alive",
+              "Native alien mentors"
+            ],
+            "friends": [
+              "Curious offworld scientist",
+              "Eager tech buyer",
+              "Native in need of technical help"
+            ],
+            "complications": [
+              "The tech is unreliable",
+              "The tech only works on this world",
+              "The tech has poorly-understood side effects",
+              "The tech is alien in nature"
+            ],
+            "things": [
+              "The tech itself",
+              "An unclaimed payment for a large shipment",
+              "The secret blueprints for its construction",
+              "An ancient alien R&D database"
+            ],
+            "places": [
+              "Alien factory",
+              "Lethal R&D center",
+              "Tech brokerage vault"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "042215e0e13dc5df44b4": {
+      "name": "Pandill",
+      "parent": "2de92b67add4718fd12b",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Frozen",
+        "biosphere": "Human-miscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Restrictive Laws",
+            "description": "A myriad of laws, customs, and rules constrain the inhabitants of this world, and even acts that are completely permissible elsewhere are punished severely here. The locals may provide lists of these laws to offworlders, but few non-natives can hope to master all the important intricacies.",
+            "enemies": [
+              "Law enforcement officer",
+              "Outraged native",
+              "Native lawyer specializing in peeling offworlders",
+              "Paid snitch"
+            ],
+            "friends": [
+              "Frustrated offworlder",
+              "Repressed native",
+              "Reforming crusader"
+            ],
+            "complications": [
+              "The laws change regularly in patterns only natives understand",
+              "The laws forbid some action vital to the party",
+              "The laws forbid the simple existence of some party members",
+              "The laws are secret to offworlders"
+            ],
+            "things": [
+              "Complete legal codex",
+              "Writ of diplomatic immunity",
+              "Fine collection of vault contents"
+            ],
+            "places": [
+              "Courtroom",
+              "Mob scene of outraged locals",
+              "Legislative chamber",
+              "Police station"
+            ]
+          },
+          {
+            "name": "Bubble Cities",
+            "description": "Whether due to a lack of atmosphere or an uninhabitable climate, the world's cities exist within domes or pressurized buildings. In such sealed environments, techniques of surveillance and control can grow baroque and extreme.",
+            "enemies": [
+              "Native dreading outsider contamination",
+              "Saboteur from another bubble city",
+              "Local official hostile to outsider ignorance of laws"
+            ],
+            "friends": [
+              "Local rebel against the city officials",
+              "Maintenance chief in need of help",
+              "Surveyor seeking new building site"
+            ],
+            "complications": [
+              "Bubble rupture",
+              "Failing atmosphere reprocessor",
+              "Native revolt against officials",
+              "All-seeing surveillance cameras"
+            ],
+            "things": [
+              "Pretech habitat technology",
+              "Valuable industrial products",
+              "Master key codes to a city's security system"
+            ],
+            "places": [
+              "City power core",
+              "Surface of the bubble",
+              "Hydroponics complex",
+              "Warren-like hab block"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "d5c95dabce23bc3d7ba4": {
+      "name": "Cres",
+      "parent": "5e25501f145598cbc5dd",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Outpost",
+        "tags": [
+          {
+            "name": "Police State",
+            "description": "The world is a totalitarian police state. Any sign of disloyalty to the planet's rulers is punished severely, and suspicion riddles society. Some worlds might operate by Soviet-style informers and indoctrination, while more technically sophisticated worlds might rely on omnipresent cameras or braked AI “guardian angels”. Outworlders are apt to be treated as a necessary evil at best, and “disappeared” if they become troublesome.",
+            "enemies": [
+              "Secret police chief",
+              "Scapegoating official",
+              "Treacherous native informer"
+            ],
+            "friends": [
+              "Rebel leader",
+              "Offworld agitator",
+              "Imprisoned victim",
+              "Crime boss"
+            ],
+            "complications": [
+              "The natives largely believe in the righteousness of the state",
+              "The police state is automated and its \"rulers\" can't shut it off'",
+              "The leaders forment a pogrom against \"offworlder spies\""
+            ],
+            "things": [
+              "List of police informers",
+              "Wealth taken from \"enemies of the state\"",
+              "Dear Leaders's private stash"
+            ],
+            "places": [
+              "Military parade",
+              "Gulag",
+              "Gray concrete housing block",
+              "Surveillance center"
+            ]
+          },
+          {
+            "name": "Post-Scarcity",
+            "description": "The locals have maintained sufficient Mandate-era tech to be effectively post-scarcity in their economic structure. Everyone has all the necessities and most of the desires they can imagine. Conflict now exists over the apportionment of services and terrestrial space, since anything else can be had in abundance. Military goods and items of mass destruction may still be restricted, and there is probably some reason that the locals do not export their vast wealth.",
+            "enemies": [
+              "Frenzied ideologue fighting over an idea",
+              "Paranoid local fearing offworlder influence",
+              "Grim reformer seeking the destruction of the \"enfeebling\" productive tech"
+            ],
+            "friends": [
+              "Offworlder seeking something available only here",
+              "Local struggling to maintain the production tech",
+              "Native missionary seeking to bring abundance to other worlds"
+            ],
+            "complications": [
+              "The tech causes serious side-effects on those who take advantage of it",
+              "The tech is breaking down",
+              "The population is growing too large",
+              "The tech produces only certain things in abundance"
+            ],
+            "things": [
+              "A cornucopia device",
+              "A rare commodity that cannot be duplicated",
+              "Contract for services"
+            ],
+            "places": [
+              "Tiny but richly-appointed private quarters",
+              "Market for services",
+              "Hushed non-duped art salon"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "cd2c4cf236edcc012eb2": {
+      "name": "Suranir Priddhi",
+      "parent": "5e25501f145598cbc5dd",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL2",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Microbial life",
+        "population": "Outpost",
+        "tags": [
+          {
+            "name": "Xenophiles",
+            "description": "The natives of this world are fast friends with a particular alien race. The aliens may have saved the planet at some point in the past, or awed the locals with superior tech or impressive cultural qualities. The aliens might even be the ruling class on the planet.",
+            "enemies": [
+              "Offworld xenophobe",
+              "Suspicious alien leader",
+              "Xenocultural imperialist"
+            ],
+            "friends": [
+              "Benevolent alien",
+              "Native malcontent",
+              "Gone-native offworlder"
+            ],
+            "complications": [
+              "The enthusiasm is due to alien psionics or tech",
+              "The enthusiasm is based on a lie, the aliens strongly dislike their “groupies”",
+              "The aliens feel obliged to rule humanity for its own good",
+              "Humans badly misunderstand the aliens"
+            ],
+            "things": [
+              "Hybrid alien-human tech",
+              "Exotic alien crafts",
+              "Sophisticated xenolinguistic and xenocultural research data"
+            ],
+            "places": [
+              "Alien district",
+              "Alien-influenced human home",
+              "Cultural festival celebrating alien artist"
+            ]
+          },
+          {
+            "name": "Forbidden Tech",
+            "description": "Some group on this planet fabricates or uses maltech. Unbraked AIs doomed to metastasize into insanity, nation-destroying nanowarfare particles, slow-burn DNA corruptives, genetically engineered slaves, or something worse still. The planet's larger population may or may not be aware of the danger in their midst.",
+            "enemies": [
+              "Mad scientist",
+              "Maltech buyer from offworld",
+              "Security enforcer"
+            ],
+            "friends": [
+              "Victim of maltech",
+              "Perimeter agent",
+              "Investigative reporter",
+              "Conventional arms merchant"
+            ],
+            "complications": [
+              "The maltech is being fabricated by an unbraked AI",
+              "The government depends on revenue from maltech sales to offworlders",
+              "Citizens insist that it's not really maltech"
+            ],
+            "things": [
+              "Maltech research data",
+              "The maltech itself",
+              "Precious pretech equipment used to create it"
+            ],
+            "places": [
+              "Horrific laboratory",
+              "Hellscape sculpted by the maltech's use",
+              "Government building meeting room"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "b9556915977933cc623e": {
+      "name": "Metanor",
+      "parent": "5e25501f145598cbc5dd",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL0",
+        "atmosphere": "Invasive, toxic atmosphere",
+        "temperature": "Temperate",
+        "biosphere": "No native biosphere",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Seismic Instability",
+            "description": "The local land masses are remarkably unstable, and regular earthquakes rack the surface. Local construction is either advanced enough to sway and move with the vibrations or primitive enough that it is easily rebuilt. Severe volcanic activity may be part of the instability.",
+            "enemies": [
+              "Earthquake cultist",
+              "Hermit seismologist",
+              "Burrowing native life form",
+              "Earthquake-inducing saboteur"
+            ],
+            "friends": [
+              "Experimental construction firm owner",
+              "Adventurous volcanologist",
+              "Geothermal prospector"
+            ],
+            "complications": [
+              "The earthquakes are caused by malfunctioning pretech terraformers",
+              "They're caused by alien technology",
+              "They're restrained by alien technology that is being plundered by offworlders",
+              "The earthquakes are used to generate enormous amounts of energy"
+            ],
+            "things": [
+              "Earthquake generator",
+              "Earthquake suppressor",
+              "Mineral formed at the core of the world",
+              "Earthquake-proof building schematics"
+            ],
+            "places": [
+              "Volcanic caldera",
+              "Village during an earthquake",
+              "Mud slide",
+              "Earthquake opening superheated steam fissures"
+            ]
+          },
+          {
+            "name": "Revanchists",
+            "description": "The locals formerly owned another world, or a major nation on the planet formerly owned an additional region of land. Something happened to take away this control or drive out the former rulers, and they've never forgotten it. The locals are obsessed with reclaiming their lost lands, and will allow no questions of practicality to interfere with their cause.",
+            "enemies": [
+              "Demagogue whipping the locals on to a hopeless war",
+              "Politician seeking to use the resentment for their own ends",
+              "Local convinced the pcs are agents of the \"thieving\" power",
+              "Refugee from the land bitterly demanding it be reclaimed"
+            ],
+            "friends": [
+              "Realist local clergy seeking peace",
+              "Politician trying to calm the public",
+              "Third-party diplomat trying to stamp out the fire"
+            ],
+            "complications": [
+              "The revanchists' claim is completely just and reasonable",
+              "The land is now occupied entirely by heirs of the conquerors",
+              "Both sides have seized lands the other thinks are theirs"
+            ],
+            "things": [
+              "Stock of vital resource produced by the taken land",
+              "Relic carried out of it",
+              "Proof that the land claim is justified or unjustified"
+            ],
+            "places": [
+              "Memorial monument to the loss",
+              "Cemetery of those who died in the conquest",
+              "Public ceremony commemorating the disaster"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "9d4e6fe6c4181a7c0464": {
+      "name": "Amphne",
+      "parent": "f36e98cf2f1b0b0f120c",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Warlords",
+            "description": "The world is plagued by warlords. Numerous powerful men and women control private armies sufficiently strong to cow whatever local government may exist. On the lands they claim, their word is law. Most spend their time oppressing their own subjects and murderously pillaging those of their neighbors. Most like to wrap themselves in the mantle of ideology, religious fervor, or an ostensibly legitimate right to rule.",
+            "enemies": [
+              "Warlord",
+              "Avaricious lieutenant",
+              "Expensive assassin",
+              "Aspiring minion"
+            ],
+            "friends": [
+              "Vengeful commoner",
+              "Government military officer",
+              "Humanitarian aid official",
+              "Village priest"
+            ],
+            "complications": [
+              "The warlords are willing to cooperate to fight mutual threats",
+              "The warlords favor specific religions or races over others",
+              "The warlords are using substantially more sophisticated tech than others",
+              "Some of the warlords are better rulers than the government"
+            ],
+            "things": [
+              "Weapons cache",
+              "Buried plunder",
+              "A warlord's personal battle harness",
+              "Captured merchant shipping"
+            ],
+            "places": [
+              "Gory battlefield",
+              "Burnt-out village",
+              "Barbaric warlord palace",
+              "Squalid refugee camp"
+            ]
+          },
+          {
+            "name": "Societal Despair",
+            "description": "The world's dominant society has lost faith in itself. Whether through some all-consuming war, great catastrophe, overwhelming outside culture, or religious collapse, the natives no longer believe in their old values, and search desperately for something new. Fierce conflict often exists between the last believers in the old dispensation and the nihilistic or searching disciples of the new age.",
+            "enemies": [
+              "Zealot who blames outsiders for the decay",
+              "Nihilistic warlord",
+              "Offworlder looking to exploit the local despair"
+            ],
+            "friends": [
+              "Struggling messenger of a new way",
+              "Valiant paragon of a fading tradition",
+              "Local going through the motions of serving a now-irrelevant role"
+            ],
+            "complications": [
+              "A massive war discredited all the old values",
+              "Outside powers are working to erode societal confidence for their own benefit",
+              "A local power is profiting greatly from the despair",
+              "The old ways were meant to aid survival on this world and their passing is causing many new woes"
+            ],
+            "things": [
+              "Relic that would inspire a renaissance",
+              "Art that would inspire new ideas",
+              "Priceless artifact of a now-scorned belief"
+            ],
+            "places": [
+              "Empty temple",
+              "Crowded den of obliviating vice",
+              "Smoky hall full of frantic speakers"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "92c6b59b8f586245fb36": {
+      "name": "Meda",
+      "parent": "f36e98cf2f1b0b0f120c",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Minimal Contact",
+            "description": "The locals refuse most contact with offworlders. Only a small, quarantined treaty port is provided for offworld trade, and ships can expect an exhaustive search for contraband. Local governments may be trying to keep the very existence of interstellar trade a secret from their populations, or they may simply consider offworlders too dangerous or repugnant to be allowed among the population.",
+            "enemies": [
+              "Customs official",
+              "Xenophobic natives",
+              "Existing merchant who doesn't like competition"
+            ],
+            "friends": [
+              "Aspiring tourist",
+              "Anthropological researcher",
+              "Offworld thief",
+              "Religious missionary"
+            ],
+            "complications": [
+              "The locals carry a disease harmless to them and lethal to outsiders",
+              "The locals hide dark purposes from offworlders",
+              "The locals have something desperately needed but won't bring it into the treaty port"
+            ],
+            "things": [
+              "Contraband trade goods",
+              "Security perimeter codes",
+              "Black market local products"
+            ],
+            "places": [
+              "Treaty port bar",
+              "Black market zone",
+              "Secret smuggler landing site"
+            ]
+          },
+          {
+            "name": "Police State",
+            "description": "The world is a totalitarian police state. Any sign of disloyalty to the planet's rulers is punished severely, and suspicion riddles society. Some worlds might operate by Soviet-style informers and indoctrination, while more technically sophisticated worlds might rely on omnipresent cameras or braked AI “guardian angels”. Outworlders are apt to be treated as a necessary evil at best, and “disappeared” if they become troublesome.",
+            "enemies": [
+              "Secret police chief",
+              "Scapegoating official",
+              "Treacherous native informer"
+            ],
+            "friends": [
+              "Rebel leader",
+              "Offworld agitator",
+              "Imprisoned victim",
+              "Crime boss"
+            ],
+            "complications": [
+              "The natives largely believe in the righteousness of the state",
+              "The police state is automated and its \"rulers\" can't shut it off'",
+              "The leaders forment a pogrom against \"offworlder spies\""
+            ],
+            "things": [
+              "List of police informers",
+              "Wealth taken from \"enemies of the state\"",
+              "Dear Leaders's private stash"
+            ],
+            "places": [
+              "Military parade",
+              "Gulag",
+              "Gray concrete housing block",
+              "Surveillance center"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "8543db9ca25f5dc0564c": {
+      "name": "Buruker Urdia",
+      "parent": "728a848274aff1ecd2c3",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Outpost",
+        "tags": [
+          {
+            "name": "Local Tech",
+            "description": "The locals can create a particular example of extremely high tech, possibly even something that exceeds pretech standards. They may use unique local resources to do so, or have stumbled on a narrow scientific breakthrough, or still have a functional experimental manufactory.",
+            "enemies": [
+              "Keeper of the tech",
+              "Offworld industrialist",
+              "Automated defenses that suddenly come alive",
+              "Native alien mentors"
+            ],
+            "friends": [
+              "Curious offworld scientist",
+              "Eager tech buyer",
+              "Native in need of technical help"
+            ],
+            "complications": [
+              "The tech is unreliable",
+              "The tech only works on this world",
+              "The tech has poorly-understood side effects",
+              "The tech is alien in nature"
+            ],
+            "things": [
+              "The tech itself",
+              "An unclaimed payment for a large shipment",
+              "The secret blueprints for its construction",
+              "An ancient alien R&D database"
+            ],
+            "places": [
+              "Alien factory",
+              "Lethal R&D center",
+              "Tech brokerage vault"
+            ]
+          },
+          {
+            "name": "Feral World",
+            "description": "In the long, isolated night of the Silence, some worlds have experienced total moral and cultural collapse. Whatever remains has been twisted beyond recognition into assorted death cults, xenophobic fanaticism, horrific cultural practices, or other behavior unacceptable on more enlightened worlds. These worlds are almost invariably quarantined by other planets.",
+            "enemies": [
+              "Decadent noble",
+              "Mad cultist",
+              "Xenophobic local",
+              "Cannibal chief",
+              "Maltech researcher"
+            ],
+            "friends": [
+              "Trapped outworlder",
+              "Aspiring reformer",
+              "Native wanting to avoid traditional flensing"
+            ],
+            "complications": [
+              "Horrific local \"celebration\"",
+              "Inexplicable and repugnant social rules",
+              "Taboo zones and people"
+            ],
+            "things": [
+              "Terribly misused piece of pretech",
+              "Wealth accumulated through brutal evildoing",
+              "Valuable possession owned by luckless outworlder victim"
+            ],
+            "places": [
+              "Atrocity amphitheater",
+              "Traditional torture parlor",
+              "Ordinary location twisted into something terrible"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "0b4cc12206b143e063eb": {
+      "name": "Mardis",
+      "parent": "728a848274aff1ecd2c3",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL2",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Human-miscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Heavy Mining",
+            "description": "This world has large stocks of valuable minerals, usually necessary for local industry, life support, or refinement into loads small enough to export offworld. Major mining efforts are necessary to extract the minerals, and many natives work in the industry.",
+            "enemies": [
+              "Mine boss",
+              "Tunnel saboteur",
+              "Subterranean predators"
+            ],
+            "friends": [
+              "Hermit prospector",
+              "Offworld investigator",
+              "Miner's union representative"
+            ],
+            "complications": [
+              "The refinery equipment breaks down",
+              "Tunnel collapse",
+              "Silicate life forms growing in the miner's lungs"
+            ],
+            "things": [
+              "The mother lode",
+              "Smuggled case of refined mineral",
+              "Silicate faked crystalline mineral samples"
+            ],
+            "places": [
+              "Vertical mine face",
+              "Tailing piles",
+              "Roaring smelting complex"
+            ]
+          },
+          {
+            "name": "Immortals",
+            "description": "Natives of this world are effectively immortal. They may have been gengineered for tremendous lifespans, or have found some local anagathic, or be cyborg life forms, or be so totally convinced of reincarnation that death is a cultural irrelevance. Any immortality technique is likely applicable only to them, or else it's apt to be a massive draw to outside imperialists.",
+            "enemies": [
+              "Outsider determined to steal immortality",
+              "Smug local convinced of their immortal wisdom to rule all",
+              "Offworlder seeking the world's ruin before it becomes a threat to all"
+            ],
+            "friends": [
+              "Curious longevity researcher",
+              "Thrill-seeking local"
+            ],
+            "complications": [
+              "Immortality requires doing something that outsiders can't or won't willingly do",
+              "The immortality ends if they leave the world",
+              "Death is the punishment for even minor crimes",
+              "Immortals must die or go offworld after a certain span",
+              "Immortality has brutal side-effects"
+            ],
+            "things": [
+              "Immortality drug",
+              "Masterwork of an ageless artisan",
+              "Toxin that only affects immortals"
+            ],
+            "places": [
+              "Community with no visible children",
+              "Unchanging structure of obvious ancient age",
+              "Cultural performance relying on a century of in-jokes"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "58f0e7a9687cf640377c": {
+      "name": "Bero",
+      "parent": "536330752cdd8bc21fad",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL2",
+        "atmosphere": "Thick atmosphere, breathable with a pressure mask",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Gold Rush",
+            "description": "Gold, silver, and other conventional precious minerals are common and cheap now that asteroid mining is practical for most worlds. But some minerals and compounds remain precious and rare, and this world has recently been discovered to have a supply of them. People from across the sector have come to strike it rich.",
+            "enemies": [
+              "Paranoid prospector",
+              "Aspiring mining tycoon",
+              "Rapacious merchant"
+            ],
+            "friends": [
+              "Claim-jumped miner",
+              "Native alien",
+              "Curious tourist"
+            ],
+            "complications": [
+              "The strike is a hoax",
+              "The strike is of a dangerous toxic substance",
+              "Export of the mineral is prohibited by the planetary government"
+            ],
+            "things": [
+              "Cases of the refined element",
+              "Pretech mining equipment",
+              "A dead prospector's claim deed"
+            ],
+            "places": [
+              "Secret mine",
+              "Native alien village",
+              "Processing plant",
+              "Boom town"
+            ]
+          },
+          {
+            "name": "Psionics Academy",
+            "description": "This world is one of the few that have managed to redevelop the basics of psychic training. Without this education, a potential psychic is doomed to either madness or death unless they refrain from using their abilities. Psionic academies are rare enough that offworlders are often sent there to study by wealthy patrons. The secrets of psychic mentorship, the protocols and techniques that allow a psychic to successfully train another, are carefully guarded at these academies. Most are closely affiliated with the planetary government.",
+            "enemies": [
+              "Corrupt psychic instructor",
+              "Renegade student",
+              "Mad psychic researcher",
+              "Resentful townie"
+            ],
+            "friends": [
+              "Offworld researcher",
+              "Aspiring student",
+              "Wealthy tourist"
+            ],
+            "complications": [
+              "The academy curriculum kills a significant percentage of students",
+              "The faculty use students as research subjects",
+              "The students are indoctrinated as sleeper agents",
+              "The local natives hate the academy",
+              "The academy is part of a religion"
+            ],
+            "things": [
+              "Secretly developed psitech",
+              "A runaway psychic mentor",
+              "Psychic research prize"
+            ],
+            "places": [
+              "Training grounds",
+              "Experimental laboratory",
+              "School library",
+              "Campus hangout"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "3066a9f21bc8009bcf37": {
+      "name": "Oregota",
+      "parent": "c9cdcb217ea44169ab6b",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable cold-to-temperate",
+        "biosphere": "No native biosphere",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Gold Rush",
+            "description": "Gold, silver, and other conventional precious minerals are common and cheap now that asteroid mining is practical for most worlds. But some minerals and compounds remain precious and rare, and this world has recently been discovered to have a supply of them. People from across the sector have come to strike it rich.",
+            "enemies": [
+              "Paranoid prospector",
+              "Aspiring mining tycoon",
+              "Rapacious merchant"
+            ],
+            "friends": [
+              "Claim-jumped miner",
+              "Native alien",
+              "Curious tourist"
+            ],
+            "complications": [
+              "The strike is a hoax",
+              "The strike is of a dangerous toxic substance",
+              "Export of the mineral is prohibited by the planetary government"
+            ],
+            "things": [
+              "Cases of the refined element",
+              "Pretech mining equipment",
+              "A dead prospector's claim deed"
+            ],
+            "places": [
+              "Secret mine",
+              "Native alien village",
+              "Processing plant",
+              "Boom town"
+            ]
+          },
+          {
+            "name": "Oceanic World",
+            "description": "The world is entirely or almost entirely covered with liquid water. Habitations might be floating cities, or might cling precariously to the few rocky atolls jutting up from the waves, or are planted as bubbles on promontories deep beneath the stormy surface. Survival depends on aquaculture. Planets with inedible alien life rely on gengineered Terran sea crops.",
+            "enemies": [
+              "Pirate raider",
+              "Violent \"salvager\" gang",
+              "Tentacled sea monster"
+            ],
+            "friends": [
+              "Daredevil fishermen",
+              "Sea hermit",
+              "Sapient native life"
+            ],
+            "complications": [
+              "The liquid flux confuses grav engines too badly for them to function on this world",
+              "Sea is corrosive or toxic",
+              "The seas are wracked by regular storms"
+            ],
+            "things": [
+              "Buried pirate treasure",
+              "Location of enormous schools of fish",
+              "Pretech water purification equipment"
+            ],
+            "places": [
+              "The only island on the planet",
+              "Floating spaceport",
+              "Deck of storm-swept ship",
+              "Undersea bubble city"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "c7771c0847344c1189a8": {
+      "name": "Zercoulos",
+      "parent": "ad16498312013b5d97b5",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Temperate",
+        "biosphere": "Immiscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Alien Ruins",
+            "description": "The world has significant alien ruins present. The locals may or may not permit others to investigate the ruins, and may make it difficult to remove any objects of value without substantial payment. Any surviving ruins with worthwhile salvage almost certainly have some defense or hazard to explain their unplundered state.",
+            "enemies": [
+              "Customs inspector",
+              "Worshipper of the ruins",
+              "Hidden alien survivor"
+            ],
+            "friends": [
+              "Curious scholar",
+              "Avaricious local resident",
+              "Interstellar smuggler"
+            ],
+            "complications": [
+              "Traps in the ruins",
+              "Remote location",
+              "Paranoid customs officials"
+            ],
+            "things": [
+              "Precious alien artifacts",
+              "Objects left with the remains of a prior unsuccessful expedition",
+              "Untranslated alien texts",
+              "Untouched hidden ruins"
+            ],
+            "places": [
+              "Undersea ruin",
+              "Orbital ruin",
+              "Perfectly preserved alien building",
+              "Alien mausoleum"
+            ]
+          },
+          {
+            "name": "Quarantined World",
+            "description": "The world is under a quarantine, and space travel to and from it is strictly forbidden. This may be enforced by massive ground batteries that burn any interlopers from the planet's sky, or it may be that a neighboring world runs a persistent blockade.",
+            "enemies": [
+              "Defense installation commander",
+              "Suspicious patrol leader",
+              "Crazed asteroid hermit"
+            ],
+            "friends": [
+              "Relative of a person trapped on the world",
+              "Humanitarian relief official",
+              "Treasure hunter"
+            ],
+            "complications": [
+              "The natives want to remain isolated",
+              "The quarantine is enforced by an ancient alien installation",
+              "The world is rife with maltech abominations",
+              "The blockade is meant to starve everyone on the barren world"
+            ],
+            "things": [
+              "Defense grid key",
+              "Bribe for getting someone out",
+              "Abandoned alien tech"
+            ],
+            "places": [
+              "Bridge of a blockading ship",
+              "Defense installation control room",
+              "Refugee camp"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "f017f3114473299eafd3": {
+      "name": "Echerr",
+      "parent": "38dba15a07116a586039",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable cold-to-temperate",
+        "biosphere": "Human-miscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Immortals",
+            "description": "Natives of this world are effectively immortal. They may have been gengineered for tremendous lifespans, or have found some local anagathic, or be cyborg life forms, or be so totally convinced of reincarnation that death is a cultural irrelevance. Any immortality technique is likely applicable only to them, or else it's apt to be a massive draw to outside imperialists.",
+            "enemies": [
+              "Outsider determined to steal immortality",
+              "Smug local convinced of their immortal wisdom to rule all",
+              "Offworlder seeking the world's ruin before it becomes a threat to all"
+            ],
+            "friends": [
+              "Curious longevity researcher",
+              "Thrill-seeking local"
+            ],
+            "complications": [
+              "Immortality requires doing something that outsiders can't or won't willingly do",
+              "The immortality ends if they leave the world",
+              "Death is the punishment for even minor crimes",
+              "Immortals must die or go offworld after a certain span",
+              "Immortality has brutal side-effects"
+            ],
+            "things": [
+              "Immortality drug",
+              "Masterwork of an ageless artisan",
+              "Toxin that only affects immortals"
+            ],
+            "places": [
+              "Community with no visible children",
+              "Unchanging structure of obvious ancient age",
+              "Cultural performance relying on a century of in-jokes"
+            ]
+          },
+          {
+            "name": "Desert World",
+            "description": "The world may have a breathable atmosphere and a human-tolerable temperature range, but it is an arid, stony waste outside of a few places made habitable by human effort. The deep wastes are largely unexplored and inhabited by outcasts and worse.",
+            "enemies": [
+              "Raider cheiftain",
+              "Crazed hermit",
+              "Angry isolationist",
+              "Paranoid mineral prospector",
+              "Strange desert beast"
+            ],
+            "friends": [
+              "Native guide",
+              "Research biologist",
+              "Aspiring teraformer"
+            ],
+            "complications": [
+              "Sandstorms",
+              "Water supply failure",
+              "Native warfare over water rights"
+            ],
+            "things": [
+              "Enormous water reservoir",
+              "Map of hidden wells",
+              "Pretech rainmaking equipment"
+            ],
+            "places": [
+              "Oasis",
+              "\"The Empty Quarter\" of the desert",
+              "Hidden underground cistern"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "6145413c361aba3e8c28": {
+      "name": "Gartant",
+      "parent": "42f0f1aeaa36780b06a3",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL4",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Warm",
+        "biosphere": "Human-miscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Oceanic World",
+            "description": "The world is entirely or almost entirely covered with liquid water. Habitations might be floating cities, or might cling precariously to the few rocky atolls jutting up from the waves, or are planted as bubbles on promontories deep beneath the stormy surface. Survival depends on aquaculture. Planets with inedible alien life rely on gengineered Terran sea crops.",
+            "enemies": [
+              "Pirate raider",
+              "Violent \"salvager\" gang",
+              "Tentacled sea monster"
+            ],
+            "friends": [
+              "Daredevil fishermen",
+              "Sea hermit",
+              "Sapient native life"
+            ],
+            "complications": [
+              "The liquid flux confuses grav engines too badly for them to function on this world",
+              "Sea is corrosive or toxic",
+              "The seas are wracked by regular storms"
+            ],
+            "things": [
+              "Buried pirate treasure",
+              "Location of enormous schools of fish",
+              "Pretech water purification equipment"
+            ],
+            "places": [
+              "The only island on the planet",
+              "Floating spaceport",
+              "Deck of storm-swept ship",
+              "Undersea bubble city"
+            ]
+          },
+          {
+            "name": "Pilgrimage Site",
+            "description": "The world is noted for an important spiritual or historical location, and might be the sector headquarters for a widespread religion or political movement. The site attracts wealthy pilgrims from throughout nearby space, and those with the money necessary to manage interstellar travel can be quite generous to the site and its keepers. The locals tend to be fiercely protective of the place and its reputation, and some places may forbid the entrance of those not suitably pious or devout.",
+            "enemies": [
+              "Saboteur devoted to a rival belief",
+              "Bitter reformer who resents the current leadership",
+              "Swindler conning the pilgrims"
+            ],
+            "friends": [
+              "Protector of the holy site",
+              "Naive offworlder pilgrim",
+              "Outsider wanting to learn the sanctum's inner secrets"
+            ],
+            "complications": [
+              "The site is actually a fake",
+              "The site is run by corrupt and venal keepers",
+              "A natural disaster threatens the site"
+            ],
+            "things": [
+              "Ancient relic guarded at the site",
+              "Proof of the site's inauthenticity",
+              "Precious offerings from a pilgrim"
+            ],
+            "places": [
+              "Incense-scented sanctum",
+              "Teeming crowd of pilgrims",
+              "Imposing holy structure"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "e79b9d7af2859e513ebc": {
+      "name": "Afari VI",
+      "parent": "713a2bde724fc1891400",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "Human-miscible",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Cybercommunists",
+            "description": "On this world communism actually works, thanks to pretech computing devices and greater or lesser amounts of psychic precognition. Central planning nodes direct all production and employment on the world. Citizens in good standing have access to ample amounts of material goods for all needs and many wants. Instead of strife over wealth, conflicts erupt over political controls, cultural precepts, or control over the planning nodes. Many cybercommunist worlds show a considerable bias toward the private interests of those who run the planning nodes.",
+            "enemies": [
+              "Embittered rebel against perceived unfairness",
+              "Offworlder saboteur",
+              "Aspiring stalin-figure"
+            ],
+            "friends": [
+              "Idealistic planning node tech",
+              "Cynical anti-corruption cop",
+              "Precognitive economist"
+            ],
+            "complications": [
+              "The pretech planning computers are breaking down",
+              "The planning only works because the locals have been mentally or physically altered",
+              "The planning computers can't handle the increasing population within the system"
+            ],
+            "things": [
+              "Planning node computer",
+              "Wildly destabilizing commodity that can't be factored into plans",
+              "A tremendous store of valuables made by accident"
+            ],
+            "places": [
+              "Humming factory",
+              "Apartment block of perfectly equal flats",
+              "Mass demonstration of unity"
+            ]
+          },
+          {
+            "name": "Primitive Aliens",
+            "description": "The world is populated by a large number of sapient aliens that have yet to develop advanced technology. The human colonists may have a friendly or hostile relationship with the aliens, but a certain intrinsic tension is likely. Small human colonies might have been enslaved or otherwise subjugated.",
+            "enemies": [
+              "Hostile alien chief",
+              "Human firebrand",
+              "Dangerous local predator",
+              "Alien religious zealot"
+            ],
+            "friends": [
+              "Colonist leader",
+              "Peace-faction alien chief",
+              "Planetary frontiersman",
+              "Xenoresearcher"
+            ],
+            "complications": [
+              "The alien numbers are huge and can overwhelm the humans whenever they so choose",
+              "One group is trying to use the other to kill their political opponents",
+              "The aliens are incomprehensibly strange",
+              "One side commits an atrocity"
+            ],
+            "things": [
+              "Alien religious icon",
+              "Ancient alien-human treaty",
+              "Alien technology"
+            ],
+            "places": [
+              "Alien village",
+              "Fortified human settlement",
+              "Massacre site"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "71aa39e4e5c58cf24e04": {
+      "name": "Makis",
+      "parent": "97f5c4aee2b385e59220",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Breatheable mix",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "No native biosphere",
+        "population": "Hundreds of millions of inhabitants",
+        "tags": [
+          {
+            "name": "Pleasure World",
+            "description": "This world provides delights either rare or impermissible elsewhere. Matchless local beauty, stunningly gengineered natives, a wide variety of local drugs, carnal pleasures unacceptable on other worlds, or some other rare delight is readily available here. Most worlds are fully aware of the value of their offerings, and the prices they demand can be in credits or in less tangible recompense.",
+            "enemies": [
+              "Purveyor of evil delights",
+              "Local seeking to control others with addictions",
+              "Offworlder exploiter of native resources"
+            ],
+            "friends": [
+              "Tourist who's in too deep",
+              "Native seeking a more meaningful life elsewhere",
+              "Offworld entertainer looking for training here"
+            ],
+            "complications": [
+              "A deeply repugnant pleasure is offered here by a culture that sees nothing wrong with it",
+              "Certain pleasures here are dangerously addictive",
+              "The prices here can involve enslavement or death",
+              "The world has been seized and exploited by an imperial power"
+            ],
+            "things": [
+              "Forbidden drug",
+              "A contract for some unspeakable payment",
+              "Powerful tech repurposed for hedonistic ends"
+            ],
+            "places": [
+              "Breathtaking natural feature",
+              "Artful but decadent salon",
+              "Grimy den of desperate vice"
+            ]
+          },
+          {
+            "name": "Alien Ruins",
+            "description": "The world has significant alien ruins present. The locals may or may not permit others to investigate the ruins, and may make it difficult to remove any objects of value without substantial payment. Any surviving ruins with worthwhile salvage almost certainly have some defense or hazard to explain their unplundered state.",
+            "enemies": [
+              "Customs inspector",
+              "Worshipper of the ruins",
+              "Hidden alien survivor"
+            ],
+            "friends": [
+              "Curious scholar",
+              "Avaricious local resident",
+              "Interstellar smuggler"
+            ],
+            "complications": [
+              "Traps in the ruins",
+              "Remote location",
+              "Paranoid customs officials"
+            ],
+            "things": [
+              "Precious alien artifacts",
+              "Objects left with the remains of a prior unsuccessful expedition",
+              "Untranslated alien texts",
+              "Untouched hidden ruins"
+            ],
+            "places": [
+              "Undersea ruin",
+              "Orbital ruin",
+              "Perfectly preserved alien building",
+              "Alien mausoleum"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "54052f9e6729a8a41af9": {
+      "name": "Andaltsio",
+      "parent": "97f5c4aee2b385e59220",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL2",
+        "atmosphere": "Corrosive",
+        "temperature": "Variable temperate-to-warm",
+        "biosphere": "Human-miscible",
+        "population": "Several million inhabitants",
+        "tags": [
+          {
+            "name": "Rising Hegemon",
+            "description": "This world is not yet a dominant power in the sector, but it's well on its way there. Whether through newly-blossoming economic, military, or cultural power, they're extending their influence over their neighbors and forging new arrangements between their government and the rulers of nearby worlds.",
+            "enemies": [
+              "Jingoistic supremacist",
+              "Official bent on glorious success",
+              "Foreign agent saboteur"
+            ],
+            "friends": [
+              "Friendly emissary to the benighted",
+              "Hardscrabble local turned great success",
+              "Foreign visitor seeking contacts or knowledge"
+            ],
+            "complications": [
+              "They're only strong because their neighbors have been weakened",
+              "Their success is based on a fluke resource or pretech find",
+              "They bitterly resent their neighbors as former oppressors"
+            ],
+            "things": [
+              "Tribute shipment",
+              "Factory or barracks emblematic of their power source",
+              "Tech or data that will deal a blow to their rise"
+            ],
+            "places": [
+              "Rustic town being hurled into prosperity",
+              "Government building being expanded",
+              "Starport struggling under the flow of new ships"
+            ]
+          },
+          {
+            "name": "Theocracy",
+            "description": "The planet is ruled by the priesthood of the predominant religion or ideology. The rest of the locals may or may not be terribly pious, but the clergy have the necessary military strength, popular support or control of resources to maintain their rule. Alternative faiths or incompatible ideologies are likely to be both illegal and socially unacceptable.",
+            "enemies": [
+              "Decadent priest-ruler",
+              "Zealous inquisitor",
+              "Relentless proselytizer",
+              "True believer"
+            ],
+            "friends": [
+              "Heretic",
+              "Offworld theologian",
+              "Atheistic merchant",
+              "Desperate commoner"
+            ],
+            "complications": [
+              "The theocracy actually works well",
+              "The theocracy is decadent and hated by the common folk",
+              "The theocracy is divided into mutually hostile sects",
+              "The theocracy is led by aliens"
+            ],
+            "things": [
+              "Precious holy text",
+              "Martyr's bones",
+              "Secret church records",
+              "Ancient church treasures"
+            ],
+            "places": [
+              "Glorious temple",
+              "Austere monastery",
+              "Academy for ideological indoctrination",
+              "Decadent pleasure-cathedral"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    },
+    "57fb35f19171f2b22ba6": {
+      "name": "Khani",
+      "parent": "97f5c4aee2b385e59220",
+      "parentEntity": "system",
+      "attributes": {
+        "techLevel": "TL3",
+        "atmosphere": "Thick atmosphere, breathable with a pressure mask",
+        "temperature": "Cold",
+        "biosphere": "Immiscible",
+        "population": "Fewer than a million inhabitants",
+        "tags": [
+          {
+            "name": "Anarchists",
+            "description": "Rather than being an incidental anarchy of struggling tribes and warring factions, this world actually has a functional society with no centralized authority. Authority might be hyperlocalized to extended families, specific religious parishes, or voluntary associations. Some force is preventing an outside group or internal malcontents from coalescing into a power capable of imposing its rule on the locals; this force might be an ancient pretech defense system, a benevolent military AI, or the sheer obscurity and isolation of the culture.",
+            "enemies": [
+              "Offworlder imperialist",
+              "Reformer seeking to impose \"good government\"",
+              "Exploiter taking advantage of the lack of centralized resistance"
+            ],
+            "friends": [
+              "Proud missionary for anarchy",
+              "Casual local free spirit",
+              "Curious offworlder political scientist"
+            ],
+            "complications": [
+              "The anarchistic structure is compelled by an external power",
+              "The anarchy is enabled by curently abundant resources",
+              "The protecting force that shelters the anarchy is waning"
+            ],
+            "things": [
+              "A macguffin that would let the possessor enforce their rule on others",
+              "A vital resource needed to preserve general liberty",
+              "Tech forbidden as disruptive to the social order"
+            ],
+            "places": [
+              "Community of similar-sized homes",
+              "Isolated clan homestead",
+              "Automated mining site"
+            ]
+          },
+          {
+            "name": "Cybercommunists",
+            "description": "On this world communism actually works, thanks to pretech computing devices and greater or lesser amounts of psychic precognition. Central planning nodes direct all production and employment on the world. Citizens in good standing have access to ample amounts of material goods for all needs and many wants. Instead of strife over wealth, conflicts erupt over political controls, cultural precepts, or control over the planning nodes. Many cybercommunist worlds show a considerable bias toward the private interests of those who run the planning nodes.",
+            "enemies": [
+              "Embittered rebel against perceived unfairness",
+              "Offworlder saboteur",
+              "Aspiring stalin-figure"
+            ],
+            "friends": [
+              "Idealistic planning node tech",
+              "Cynical anti-corruption cop",
+              "Precognitive economist"
+            ],
+            "complications": [
+              "The pretech planning computers are breaking down",
+              "The planning only works because the locals have been mentally or physically altered",
+              "The planning computers can't handle the increasing population within the system"
+            ],
+            "things": [
+              "Planning node computer",
+              "Wildly destabilizing commodity that can't be factored into plans",
+              "A tremendous store of valuables made by accident"
+            ],
+            "places": [
+              "Humming factory",
+              "Apartment block of perfectly equal flats",
+              "Mass demonstration of unity"
+            ]
+          }
+        ]
+      },
+      "isHidden": false
+    }
+  },
+  "refuelingStation": {
+    "a12d7183eff9d3e76e8c": {
+      "name": "Airy-0 3",
+      "parent": "f767f65f9809c9054136",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Brainless automated vendors",
+        "situation": "A ship is in severe distress"
+      },
+      "isHidden": false
+    },
+    "4ba1fe983a1a59455e36": {
+      "name": "Schaeberle 7",
+      "parent": "a843be336b76ed44a66c",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Sordid purveyors of decadent fun",
+        "situation": "Pirates have taken over"
+      },
+      "isHidden": false
+    },
+    "30e939660557dcc25465": {
+      "name": "Tuscaloosa 9",
+      "parent": "684bd3f14bb9744181a1",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Brainless automated vendors",
+        "situation": "Foreign saboteurs are active"
+      },
+      "isHidden": false
+    },
+    "0fbd82764e396a89bb95": {
+      "name": "Kaliningrad 8",
+      "parent": "38b2a533856f477f3ce7",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Sordid purveyors of decadent fun",
+        "situation": "Foreign saboteurs are active"
+      },
+      "isHidden": false
+    },
+    "531e3e3a8240bad5868c": {
+      "name": "Naryn 7",
+      "parent": "c05adf8f4734011543c2",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Extortionate corporate minions",
+        "situation": "Has corrupt customs agents"
+      },
+      "isHidden": false
+    },
+    "153c9b1637cfc5c7f1f7": {
+      "name": "Tsau 6",
+      "parent": "add69d57f80a6a0bc9e2",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Brainless automated vendors",
+        "situation": "Pirates have taken over"
+      },
+      "isHidden": false
+    },
+    "2ec797cacb78591abbcd": {
+      "name": "Bira 5",
+      "parent": "96093b0011aa7df897de",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Sordid purveyors of decadent fun",
+        "situation": "A ship is in severe distress"
+      },
+      "isHidden": false
+    },
+    "1660887d2620df348bc5": {
+      "name": "Novara 1",
+      "parent": "9d4e6fe6c4181a7c0464",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Half-crazed hermit caretaker",
+        "situation": "Foreign saboteurs are active"
+      },
+      "isHidden": false
+    },
+    "90fb0e00815d8158a2da": {
+      "name": "Cobalt 1",
+      "parent": "f36e98cf2f1b0b0f120c",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Sordid purveyors of decadent fun",
+        "situation": "Pirates have taken over"
+      },
+      "isHidden": false
+    },
+    "8e83729c9f189124f19b": {
+      "name": "Rayleigh 3",
+      "parent": "0b4cc12206b143e063eb",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Sordid purveyors of decadent fun",
+        "situation": "Foreign saboteurs are active"
+      },
+      "isHidden": false
+    },
+    "f72b0b8be6cf91eba49f": {
+      "name": "Turbi 7",
+      "parent": "713a2bde724fc1891400",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Extortionate corporate minions",
+        "situation": "Foreign saboteurs are active"
+      },
+      "isHidden": false
+    },
+    "6572b8fa6b04d4e76607": {
+      "name": "Chekalin 5",
+      "parent": "71aa39e4e5c58cf24e04",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Brainless automated vendors",
+        "situation": "Has corrupt customs agents"
+      },
+      "isHidden": false
+    },
+    "f3506587c9952bf5b3fd": {
+      "name": "Mistretta 9",
+      "parent": "57fb35f19171f2b22ba6",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Half-crazed hermit caretaker",
+        "situation": "Pirates have taken over"
+      },
+      "isHidden": false
+    }
+  },
+  "researchBase": {
+    "4d118628894051613b7c": {
+      "name": "Rahe 9",
+      "parent": "d9c2c6efb5cd2d8afe4f",
+      "parentEntity": "blackHole",
+      "attributes": {
+        "occupation": "Secret employees of a foreign power",
+        "situation": "Selling black-market tech"
+      },
+      "isHidden": false
+    },
+    "9ec27708adc872cb8b42": {
+      "name": "Aki",
+      "parent": "6cae6d1c3a56e652eec6",
+      "parentEntity": "blackHole",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Science monsters run amok"
+      },
+      "isHidden": false
+    },
+    "e232bdd70f67b885a07a": {
+      "name": "Gagra 6",
+      "parent": "b77afe1b85fd8363d94b",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Alien studying the human locals",
+        "situation": "Hideously immoral research"
+      },
+      "isHidden": false
+    },
+    "3951de05581111073449": {
+      "name": "Philadelphia",
+      "parent": "d723e8802f5afb7960bb",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists from a major local corp",
+        "situation": "Science monsters run amok"
+      },
+      "isHidden": false
+    },
+    "09c6800562ef15001290": {
+      "name": "Zarand 6",
+      "parent": "d3b6a41dec8c356f2c86",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists from a major local corp",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "166541d7556e037b5980": {
+      "name": "Danielson",
+      "parent": "1fc43501c10d2744da90",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Scientists from a major local corp",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "7889e745f6aeee8c6964": {
+      "name": "Main 5",
+      "parent": "684bd3f14bb9744181a1",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "8901a474ff84c1a5fac8": {
+      "name": "Bamba 5",
+      "parent": "62fc72c75cc1c49a282e",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists from a major local corp",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "d20bf90f85b7fc700b69": {
+      "name": "Ochakov 7",
+      "parent": "837ac75467c7d1a68121",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Black-ops governmental researchers",
+        "situation": "Hideously immoral research"
+      },
+      "isHidden": false
+    },
+    "d61fec01591e75a7dd34": {
+      "name": "Rauna 1",
+      "parent": "add69d57f80a6a0bc9e2",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Secret employees of a foreign power",
+        "situation": "Perilous research underway"
+      },
+      "isHidden": false
+    },
+    "b536aae2f8c9b6a9e2ba": {
+      "name": "Loon 1",
+      "parent": "e6d70a900acb931feb8a",
+      "parentEntity": "moon",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "8298f61fcc5325a71de2": {
+      "name": "Crater 7",
+      "parent": "6519e967b5d77dccbf05",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Held hostage by outsiders"
+      },
+      "isHidden": false
+    },
+    "42cc5e86a65ae59dd9c4": {
+      "name": "Dunkassa 6",
+      "parent": "c1068c9d83a275709fe1",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secret employees of a foreign power",
+        "situation": "Science monsters run amok"
+      },
+      "isHidden": false
+    },
+    "e940f3a3c4ce6f6e7c12": {
+      "name": "Swanage 2",
+      "parent": "2de92b67add4718fd12b",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Secret employees of a foreign power",
+        "situation": "Perilous research underway"
+      },
+      "isHidden": false
+    },
+    "d83f463de029a9f99fd5": {
+      "name": "Platte 9",
+      "parent": "5e25501f145598cbc5dd",
+      "parentEntity": "system",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Hideously immoral research"
+      },
+      "isHidden": false
+    },
+    "c6b610aad34ee14ab372": {
+      "name": "Molesworth 4",
+      "parent": "92c6b59b8f586245fb36",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Scientists from a major local corp",
+        "situation": "Science monsters run amok"
+      },
+      "isHidden": false
+    },
+    "a34d283b16c2ed8a4e01": {
+      "name": "Canala 2",
+      "parent": "c7771c0847344c1189a8",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secret employees of a foreign power",
+        "situation": "Selling black-market tech"
+      },
+      "isHidden": false
+    },
+    "d9ee7cb10d91ec718092": {
+      "name": "Zaranj 6",
+      "parent": "54052f9e6729a8a41af9",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Experiments that have gotten loose",
+        "situation": "Perilous research underway"
+      },
+      "isHidden": false
+    }
+  },
+  "sector": {
+    "da1c87def4af1f6ba740": {
+      "name": "Jafquaa Theta",
+      "rows": 10,
+      "columns": 8,
+      "attributes": {}
+    }
+  },
+  "spaceStation": {
+    "859d8aface3fbd26893b": {
+      "name": "Maricourt",
+      "parent": "6c2a1967abd8cc0ff7ce",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "926eb658b2e1f8f65871": {
+      "name": "New Plymouth 4",
+      "parent": "6c2a1967abd8cc0ff7ce",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Freeze-dried ancient corpses",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "daa0dda3dbcc8430a934": {
+      "name": "Evpatoriya 8",
+      "parent": "c84ada3561cea52392d6",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "d6fe0c034f62e02de06a": {
+      "name": "Crater 3",
+      "parent": "62fc72c75cc1c49a282e",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "7cd51d22d91c9e19ff98": {
+      "name": "Crater 2",
+      "parent": "96093b0011aa7df897de",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "b0f431b09e265e51fd86": {
+      "name": "Arica 7",
+      "parent": "6519e967b5d77dccbf05",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Dangerously odd humans",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "d0bb7f29b1b5a5190e2c": {
+      "name": "Gaan 6",
+      "parent": "71c0dc2e1aee7195f434",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Dangerously odd humans",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "e4b5a21abdd497e15bce": {
+      "name": "Lutsk 4",
+      "parent": "71c0dc2e1aee7195f434",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "412aa77f245dab003877": {
+      "name": "Chapais 2",
+      "parent": "1662489938444d3fd04c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Vault for dangerous pretech"
+      },
+      "isHidden": false
+    },
+    "91d39ac8e5fddab44a37": {
+      "name": "Manah 7",
+      "parent": "e4182be023845fbb040c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "56c7287ba7d99e370937": {
+      "name": "Tycho Brahe 2",
+      "parent": "e4182be023845fbb040c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secretive military observers",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "3000c8adf6f6703aa593": {
+      "name": "Kaw 9",
+      "parent": "d5c95dabce23bc3d7ba4",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "e06203a631fa77734e3a": {
+      "name": "Mila 1",
+      "parent": "d5c95dabce23bc3d7ba4",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "69273bf502a51d7136e9": {
+      "name": "Hipparchus 4",
+      "parent": "cd2c4cf236edcc012eb2",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secretive military observers",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "c4838158abb113b946d0": {
+      "name": "Northport 3",
+      "parent": "cd2c4cf236edcc012eb2",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "a816c661e7ac3c35c8a5": {
+      "name": "Gagra 8",
+      "parent": "9d4e6fe6c4181a7c0464",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Vault for dangerous pretech"
+      },
+      "isHidden": false
+    },
+    "50e846e6feb53a16b0f0": {
+      "name": "Tombaugh 6",
+      "parent": "0b4cc12206b143e063eb",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "9f7dca40d56b266dbc78": {
+      "name": "Auce 1",
+      "parent": "58f0e7a9687cf640377c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Dangerously odd humans",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "34127182477f2c712de7": {
+      "name": "Vivero 6",
+      "parent": "58f0e7a9687cf640377c",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secretive military observers",
+        "situation": "Foreign sabotage attempt"
+      },
+      "isHidden": false
+    },
+    "50f64147dcded365ae92": {
+      "name": "Cross 7",
+      "parent": "c7771c0847344c1189a8",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "c4a2cf851d03715db00a": {
+      "name": "Kantang 6",
+      "parent": "c7771c0847344c1189a8",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Secretive military observers",
+        "situation": "Black market for the elite"
+      },
+      "isHidden": false
+    },
+    "2397f0adda8d58e5bdc1": {
+      "name": "Jama 8",
+      "parent": "f017f3114473299eafd3",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Eccentric oligarch and minions",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "c548198c106fefad30fb": {
+      "name": "Cobalt 7",
+      "parent": "f017f3114473299eafd3",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Freeze-dried ancient corpses",
+        "situation": "Systems breaking down"
+      },
+      "isHidden": false
+    },
+    "ebf7e6e6ea7571077c93": {
+      "name": "Mariner",
+      "parent": "afb1882100136ef31f41",
+      "parentEntity": "asteroidBelt",
+      "attributes": {
+        "occupation": "Freeze-dried ancient corpses",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "9eb7d55f4368d15624b9": {
+      "name": "Lau 5",
+      "parent": "e79b9d7af2859e513ebc",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Freeze-dried ancient corpses",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    },
+    "26bd0d57fa725c5fa53c": {
+      "name": "Bulhar 1",
+      "parent": "71aa39e4e5c58cf24e04",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Dangerously odd humans",
+        "situation": "Vault for dangerous pretech"
+      },
+      "isHidden": false
+    },
+    "bd60d99812ec3054b692": {
+      "name": "Stokes 8",
+      "parent": "57fb35f19171f2b22ba6",
+      "parentEntity": "planet",
+      "attributes": {
+        "occupation": "Deranged but brilliant scientist",
+        "situation": "Supply base for pirates"
+      },
+      "isHidden": false
+    }
+  },
+  "system": {
+    "4df918566140e27e62a5": {
+      "x": 1,
+      "y": 3,
+      "name": "Svallau",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "a8d163c31d01fd628a8c": {
+      "x": 1,
+      "y": 1,
+      "name": "Parra",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "a89cc8f00c338405ad07": {
+      "x": 2,
+      "y": 8,
+      "name": "Nawzira VII",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "1fc43501c10d2744da90": {
+      "x": 8,
+      "y": 2,
+      "name": "Najaha",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "c05adf8f4734011543c2": {
+      "x": 6,
+      "y": 7,
+      "name": "Dynae",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "add69d57f80a6a0bc9e2": {
+      "x": 1,
+      "y": 2,
+      "name": "Thoe",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "12a8b0590d646a202e64": {
+      "x": 5,
+      "y": 9,
+      "name": "Hamadeg",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "cdacc6fd6365e221b77a": {
+      "x": 3,
+      "y": 1,
+      "name": "Iur Gargie",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "b583b2e9f7c6a9c2d95c": {
+      "x": 8,
+      "y": 10,
+      "name": "Zamacai",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "a5f56ad26b32ce5acaf6": {
+      "x": 8,
+      "y": 9,
+      "name": "Hermand",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "87d18686d289e602a2a3": {
+      "x": 1,
+      "y": 8,
+      "name": "Astynas",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "2de92b67add4718fd12b": {
+      "x": 7,
+      "y": 6,
+      "name": "Leioara Amein",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "5e25501f145598cbc5dd": {
+      "x": 4,
+      "y": 7,
+      "name": "Dimougaki",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "f36e98cf2f1b0b0f120c": {
+      "x": 8,
+      "y": 8,
+      "name": "Antino",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "728a848274aff1ecd2c3": {
+      "x": 6,
+      "y": 8,
+      "name": "Panjati Varul",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "536330752cdd8bc21fad": {
+      "x": 3,
+      "y": 10,
+      "name": "Lorre Dundrea",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "c9cdcb217ea44169ab6b": {
+      "x": 3,
+      "y": 8,
+      "name": "Andanteri",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "ad16498312013b5d97b5": {
+      "x": 3,
+      "y": 9,
+      "name": "Argus",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "38dba15a07116a586039": {
+      "x": 2,
+      "y": 6,
+      "name": "Pietakira",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "42f0f1aeaa36780b06a3": {
+      "x": 7,
+      "y": 8,
+      "name": "Daphne",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "713a2bde724fc1891400": {
+      "x": 2,
+      "y": 9,
+      "name": "Fat",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    },
+    "97f5c4aee2b385e59220": {
+      "x": 1,
+      "y": 4,
+      "name": "Alvo",
+      "parent": "da1c87def4af1f6ba740",
+      "parentEntity": "sector",
+      "attributes": {},
+      "isHidden": false
+    }
+  }
+}
