@@ -98,7 +98,6 @@ pub struct Planet {
     pub attributes: Option<Value>,
     pub created: Option<String>,
     pub creator: Option<String>,
-    pub image: Option<String>,
     pub is_hidden: bool,
     pub name: String,
     pub parent: String,

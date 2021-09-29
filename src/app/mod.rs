@@ -19,6 +19,7 @@ pub struct App {
     starfield: Vec<(f64, f64)>,
     mode: SelectionMode,
     cursor: (u8, u8),
+    color: (u8, u8),
 }
 
 impl App {
@@ -55,6 +56,7 @@ impl App {
             starfield,
             mode: SelectionMode::MAP,
             cursor: (1, 1),
+            color: (3, 1),
         }
     }
 
@@ -172,6 +174,31 @@ impl App {
             .get((self.cursor.0 - 1).into(), (self.cursor.1 - 1).into())
             .unwrap()
             .as_ref()
+    }
+
+    pub fn color(&self) -> (u8, u8) {
+        self.color
+    }
+
+    pub fn cycle_color(&mut self, rev: bool) -> () {
+        self.cycle_foreground(rev);
+        self.cycle_background(rev);
+    }
+
+    pub fn cycle_foreground(&mut self, rev: bool) -> () {
+        self.color.0 = if rev {
+            self.color.0.wrapping_sub(1)
+        } else {
+            self.color.0.wrapping_add(1)
+        };
+    }
+
+    pub fn cycle_background(&mut self, rev: bool) -> () {
+        self.color.1 = if rev {
+            self.color.1.wrapping_sub(1)
+        } else {
+            self.color.1.wrapping_add(1)
+        };
     }
 }
 

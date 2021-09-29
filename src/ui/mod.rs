@@ -1,6 +1,9 @@
 use crate::app::{self, SelectionMode};
 use chrono::{DateTime, Local};
-use crossterm::event::{poll, read, Event, KeyCode, KeyEvent};
+use crossterm::{
+    event::{poll, read, Event, KeyCode, KeyModifiers, KeyEvent},
+    terminal::{enable_raw_mode, disable_raw_mode},
+};
 use std::{error::Error, io, time::Duration};
 use tui::{
     backend::{Backend, CrosstermBackend},
@@ -16,13 +19,15 @@ pub fn init(app: &mut app::App) -> Result<(), Box<dyn Error>> {
     let backend = CrosstermBackend::new(stdout);
     let mut terminal = Terminal::new(backend)?;
 
+    enable_raw_mode()?;
+   
     terminal.clear()?;
 
     terminal.draw(|f| {
         let chunks = Layout::default()
             .direction(Direction::Horizontal)
             .margin(0)
-            .constraints([Constraint::Ratio(4, 5), Constraint::Ratio(1, 5)].as_ref())
+            .constraints([Constraint::Ratio(3, 5), Constraint::Ratio(2, 5)].as_ref())
             .split(f.size());
 
         draw_map(f, chunks[0], app);
@@ -35,7 +40,7 @@ pub fn init(app: &mut app::App) -> Result<(), Box<dyn Error>> {
                 let chunks = Layout::default()
                     .direction(Direction::Horizontal)
                     .margin(0)
-                    .constraints([Constraint::Ratio(4, 5), Constraint::Ratio(1, 5)].as_ref())
+                    .constraints([Constraint::Ratio(3, 5), Constraint::Ratio(2, 5)].as_ref())
                     .split(f.size());
 
                 draw_map(f, chunks[0], app);
@@ -86,6 +91,34 @@ fn read_input(app: &mut app::App) -> crossterm::Result<Option<()>> {
                 app.move_selection(app::SelectionChange::RIGHT);
                 return Ok(Some(()));
             }
+            Event::Key(KeyEvent {
+                code: KeyCode::Char('c'),
+                modifiers: mods,
+            }) => {
+                app.cycle_color(mods == KeyModifiers::CONTROL);
+                return Ok(Some(()));
+            }
+            Event::Key(KeyEvent {
+                code: KeyCode::Char('f'),
+                modifiers: mods,
+            }) => {
+                app.cycle_foreground(mods == KeyModifiers::CONTROL);
+                return Ok(Some(()));
+            }
+            Event::Key(KeyEvent {
+                code: KeyCode::Char('g'),
+                modifiers: mods,
+            }) => {
+                app.cycle_background(mods == KeyModifiers::CONTROL);
+                return Ok(Some(()));
+            }
+            Event::Key(KeyEvent {
+                code: KeyCode::Char('q'),
+                modifiers: _,
+            }) => {
+                disable_raw_mode()?;
+                std::process::exit(0);
+            }
             Event::Resize(_, _) => return Ok(Some(())),
             _ => {}
         }
@@ -110,7 +143,7 @@ pub fn draw_map<B: Backend>(f: &mut Frame<B>, area: Rect, app: &app::App) {
         Dataset::default()
             .marker(Marker::Block)
             .graph_type(GraphType::Scatter)
-            .style(Style::default().fg(Color::LightRed))
+            .style(Style::default().fg(Color::Indexed(app.color().0)))
             .data(sys.as_slice()),
         // Black holes
         Dataset::default()
@@ -144,7 +177,7 @@ pub fn draw_map<B: Backend>(f: &mut Frame<B>, area: Rect, app: &app::App) {
                 .title("Sector")
                 .borders(Borders::ALL)
                 .border_style(Style::default().fg(match app.selection_mode() {
-                    app::SelectionMode::MAP => Color::LightRed,
+                    app::SelectionMode::MAP => Color::Indexed(app.color().1),
                     _ => Color::Reset,
                 })),
         )
@@ -177,7 +210,7 @@ pub fn draw_info_panel<B: Backend>(f: &mut Frame<B>, area: Rect, app: &app::App)
         ))
         .borders(Borders::ALL)
         .border_style(Style::default().fg(match app.selection_mode() {
-            app::SelectionMode::SYSTEM => Color::LightRed,
+            app::SelectionMode::SYSTEM => Color::Indexed(app.color().1),
             _ => Color::Reset,
         }));
 
@@ -185,7 +218,7 @@ pub fn draw_info_panel<B: Backend>(f: &mut Frame<B>, area: Rect, app: &app::App)
         .title("Objects")
         .borders(Borders::ALL)
         .border_style(Style::default().fg(match app.selection_mode() {
-            app::SelectionMode::OBJECTS => Color::LightRed,
+            app::SelectionMode::OBJECTS => Color::Indexed(app.color().1),
             _ => Color::Reset,
         }));
 
@@ -234,7 +267,7 @@ pub fn draw_info_panel<B: Backend>(f: &mut Frame<B>, area: Rect, app: &app::App)
                 .collect::<Vec<_>>(),
         )
         .block(layer_block)
-        .highlight_style(Style::default().fg(Color::Black).bg(Color::Red));
+        .highlight_style(Style::default().fg(Color::Black).bg(Color::Indexed(app.color().0)));
         f.render_widget(layers, chunks[1]);
     } else {
         f.render_widget(system_block, chunks[0]);
